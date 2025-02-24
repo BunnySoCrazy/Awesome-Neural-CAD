@@ -7,7 +7,7 @@ A curated list of awesome papers in Neural CAD.
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
 | <img src="assets/img/2.jpg" width="200"> | Title of Paper 1: A Novel Approach | CVPR 2024 | [Paper](link) \| [Code](link) \| [Project](link) |
-| <img src="assets/img/2.jpg" width="200"> | Title of Paper 2: An Innovative Method | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/2.jpg" width="200"> | [CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs](https://arxiv.org/abs/2412.19663) | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
 
 
 ## Reconstruction
