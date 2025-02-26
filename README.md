@@ -6,8 +6,8 @@ A curated list of awesome papers in Neural CAD.
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
-| <img src="assets/img/CAD-GPT.jpg" width="300"> | Title of Paper 1: A Novel Approach | CVPR 2024 | [Paper](link) \| [Code](link) \| [Project](link) |
-| <img src="assets/img/CAD-MLLM.jpg" width="300"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/recode.jpg" width="200"> | CAD-Recode: Reverse Engineering CAD Code from Point Clouds | CVPR 2024 | [Paper](link) \| [Code](link) \| [Project](link) |
+| <img src="assets/img/CAD-MLLM.jpg" width="200"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
 
 
 ## Reconstruction
@@ -16,6 +16,11 @@ A curated list of awesome papers in Neural CAD.
 |:---:|:---|:---:|:---:|
 | <img src="assets/img/BSP-Net.jpg" width="200"> | BSP-Net: Generating Compact Meshes via Binary Space Partitioning | CVPR 2024 | [Paper](link) \| [Code](link) \| [Project](link) |
 | <img src="assets/img/capri.jpg" width="200"> | CAPRI-Net: Learning Compact CAD Shapes with Adaptive Primitive Assembly | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/csgnet.jpg" width="200"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/CSG-Stump.jpg" width="200"> | CSG-Stump: A Learning Friendly CSG-Like Representation for Interpretable Shape Parsing | ICCV 2021 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/csgnet.jpg" width="200"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/csgnet.jpg" width="200"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](link) \| [Code](link) \| [Demo](link) |
+
 
 
 ## Representation
