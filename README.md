@@ -25,8 +25,8 @@ The first curated list of Neural CAD papers that incorporates visual previews, m
 | <img src="assets/img/capri.jpg" width="200"> | CAPRI-Net: Learning Compact CAD Shapes with Adaptive Primitive Assembly | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
 | <img src="assets/img/csgnet.jpg" width="200"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](link) \| [Code](link) \| [Demo](link) |
 | <img src="assets/img/CSG-Stump.jpg" width="200"> | CSG-Stump: A Learning Friendly CSG-Like Representation for Interpretable Shape Parsing | ICCV 2021 | [Paper](link) \| [Code](link) \| [Demo](link) |
-| <img src="assets/img/csgnet.jpg" width="200"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](link) \| [Code](link) \| [Demo](link) |
-| <img src="assets/img/csgnet.jpg" width="200"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/ucsgnet.jpg" width="200"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](link) \| [Code](link) \| [Demo](link) |
+<!-- | <img src="assets/img/csgnet.jpg" width="200"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](link) \| [Code](link) \| [Demo](link) | -->
 
 
 
