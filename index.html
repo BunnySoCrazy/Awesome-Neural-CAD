@@ -75,6 +75,48 @@
         <p>The first curated list of Neural CAD papers with visual previews</p>
     </div>
 
+    <!-- First Section -->
+    <div class="section">
+        <h2 class="section-title">Latest Papers</h2>
+        <div class="cards-container">
+            <div class="card">
+                <img src="assets/img/CAD-GPT.jpg" alt="CAD-GPT">
+                <div class="card-content">
+                    <div class="card-title">CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs</div>
+                    <div class="card-info">arXiv 2025</div>
+                    <div class="card-links">
+                        <a href="https://arxiv.org/abs/2412.19663">Paper</a>
+                        <a href="https://openiwin.github.io/CAD-GPT/">Project</a>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="card">
+                <img src="assets/img/FLEXCAD.jpg" alt="FlexCAD">
+                <div class="card-content">
+                    <div class="card-title">FlexCAD: Unified and Versatile Controllable CAD Generation</div>
+                    <div class="card-info">ICLR 2025</div>
+                    <div class="card-links">
+                        <a href="https://arxiv.org/abs/2411.05823">Paper</a>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="card">
+                <img src="assets/img/DontMeshwithMe.jpg" alt="Don't Mesh with Me">
+                <div class="card-content">
+                    <div class="card-title">Don't Mesh with Me: Generating Constructive Solid Geometry Instead of Meshes</div>
+                    <div class="card-info">arXiv 2024</div>
+                    <div class="card-links">
+                        <a href="https://arxiv.org/abs/2411.15279">Paper</a>
+                    </div>
+                </div>
+            </div>
+            <!-- More cards in this section -->
+        </div>
+    </div>
+    
+
     <div class="cards-container">
         <div class="card">
             <img src="assets/img/CAD-GPT.jpg" alt="CAD-GPT">
@@ -593,7 +635,27 @@
         </div>
 
         
-        
+
     </div>
 </body>
+
+/* Suggested CSS */
+.section {
+    margin: 40px 0;
+}
+
+.section-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    border-left: 4px solid #3498db;
+}
+
+.cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
 </html>
