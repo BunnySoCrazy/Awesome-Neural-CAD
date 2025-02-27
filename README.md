@@ -61,8 +61,8 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
-| <img src="assets/img/UV-Net.jpg" width="250"> | UV-Net: Learning from Boundary Representations | CVPR 2021 | [Paper](https://arxiv.org/abs/2006.10211) <br> [Code](https://github.com/AutodeskAILab/UV-Net) |
-| <img src="assets/img/BRepNet.jpg" width="250"> | BRepNet: A Topological Message Passing System for Solid Models | CVPR 2021 | [Paper](https://arxiv.org/abs/2104.00706) <br> [Code](https://github.com/AutodeskAILab/BRepNet) |
+| <img src="assets/img/UV-Net.jpg" width="210"> | UV-Net: Learning from Boundary Representations | CVPR 2021 | [Paper](https://arxiv.org/abs/2006.10211) <br> [Code](https://github.com/AutodeskAILab/UV-Net) |
+| <img src="assets/img/BRepNet.jpg" width="210"> | BRepNet: A Topological Message Passing System for Solid Models | CVPR 2021 | [Paper](https://arxiv.org/abs/2104.00706) <br> [Code](https://github.com/AutodeskAILab/BRepNet) |
 
 
 ## Others
