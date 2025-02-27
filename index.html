@@ -84,15 +84,15 @@
         }
         .main-container {
             display: flex;
-            gap: 30px;
+            gap: 15px; /* Reduced gap */
         }
 
         .sidebar {
             position: sticky;
             top: 20px;
             height: fit-content;
-            min-width: 200px;
-            padding: 20px;
+            min-width: 150px; /* Reduced width */
+            padding: 15px; /* Reduced padding */
             background: #f8f9fa;
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -101,16 +101,19 @@
         .nav-menu {
             list-style: none;
             padding: 0;
+            margin: 0;
         }
 
+
         .nav-menu li {
-            margin: 10px 0;
+            margin: 5px 0; /* Reduced margin */
         }
 
         .nav-menu a {
             text-decoration: none;
             color: #333;
-            padding: 8px 12px;
+            padding: 6px 8px; /* Reduced padding */
+            font-size: 14px; /* Smaller font size */
             display: block;
             border-radius: 4px;
             transition: all 0.3s ease;
