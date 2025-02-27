@@ -69,8 +69,8 @@ The first curated list of Neural CAD papers that incorporates visual previews, m
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
-| <img src="assets/img/JoinABLe.jpg" width="200"> | Title of Paper 1: A Novel Approach | CVPR 2024 | [Paper](link) \| [Code](link) \| [Project](link) |
-| <img src="assets/img/CAD-Editor.jpg" width="200"> | Title of Paper 2: An Innovative Method | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/JoinABLe.jpg" width="200"> | JoinABLe: Learning Bottom-up Assembly of Parametric CAD Joints | CVPR 2022 | [Paper](link) \| [Code](link) \| [Project](link) |
+| <img src="assets/img/CAD-Editor.jpg" width="200"> | CAD-Editor: Text-based CAD Editing through Adapting Large Language Models with Synthetic Data | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
 
 
 <!-- ## Representation
