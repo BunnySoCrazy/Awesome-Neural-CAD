@@ -22,6 +22,7 @@ The first curated list of Neural CAD papers that incorporates visual previews, m
 | <img src="assets/img/StructureNet.jpg" width="260"> | DeepCAD: A Deep Generative Network for Computer-Aided Design Models | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
 | <img src="assets/img/SketchGen.jpg" width="260"> | DeepCAD: A Deep Generative Network for Computer-Aided Design Models | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
 | <img src="assets/img/Sketch_Generation.jpg" width="260"> | DeepCAD: A Deep Generative Network for Computer-Aided Design Models | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/Free2CAD.jpg" width="260"> | DeepCAD: A Deep Generative Network for Computer-Aided Design Models | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
 <!-- | <img src="assets/img/RECAD.jpg" width="260"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) | -->
 
 ## Reconstruction
@@ -34,6 +35,8 @@ The first curated list of Neural CAD papers that incorporates visual previews, m
 | <img src="assets/img/csgnet.jpg" width="200"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](link) \| [Code](link) \| [Demo](link) |
 | <img src="assets/img/CSG-Stump.jpg" width="200"> | CSG-Stump: A Learning Friendly CSG-Like Representation for Interpretable Shape Parsing | ICCV 2021 | [Paper](link) \| [Code](link) \| [Demo](link) |
 | <img src="assets/img/ucsgnet.jpg" width="200"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/rounded_voxel.jpg" width="200"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/Point2Cyl.jpg" width="200"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](link) \| [Code](link) \| [Demo](link) |
 | <img src="assets/img/SECAD.jpg" width="200"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](link) \| [Code](link) \| [Demo](link) |
 | <img src="assets/img/PlankAssembly.jpg" width="200"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](link) \| [Code](link) \| [Demo](link) |
 | <img src="assets/img/ComplexGen.jpg" width="200"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](link) \| [Code](link) \| [Demo](link) |
