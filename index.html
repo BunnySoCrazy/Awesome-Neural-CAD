@@ -15,10 +15,16 @@
             text-align: center;
             margin-bottom: 40px;
         }
-        .cards-container {
+        /* .cards-container {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             gap: 20px;
+        } */
+        .cards-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            padding: 20px;
         }
         .card {
             background: white;
@@ -67,6 +73,16 @@
         .card-info, .card-links {
             margin-top: auto;
         }
+        .section {
+            margin: 40px 0;
+        }
+        .section-title {
+            font-size: 24px;
+            margin-bottom: 20px;
+            padding-left: 20px;
+            border-left: 4px solid #3498db;
+        }
+
     </style>
 </head>
 <body>
@@ -587,7 +603,7 @@
         </div>
     </div>
 
-    
+
     <div class="section">
         <h2 class="section-title">Others</h2>
         <div class="cards-container">
@@ -619,23 +635,5 @@
     </div>
 </body>
 
-/* Suggested CSS */
-.section {
-    margin: 40px 0;
-}
-
-.section-title {
-    font-size: 24px;
-    margin-bottom: 20px;
-    padding-left: 20px;
-    border-left: 4px solid #3498db;
-}
-
-.cards-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 20px;
-    padding: 20px;
-}
 
 </html>
