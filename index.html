@@ -26,6 +26,9 @@
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
             overflow: hidden;
             transition: transform 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
         }
         .card:hover {
             transform: translateY(-5px);
@@ -37,11 +40,15 @@
         }
         .card-content {
             padding: 15px;
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
         }
         .card-title {
             font-size: 1.1em;
             font-weight: bold;
             margin-bottom: 10px;
+            flex-grow: 1;
         }
         .card-info {
             font-size: 0.9em;
@@ -56,6 +63,9 @@
         }
         .card-links a:hover {
             text-decoration: underline;
+        }
+        .card-info, .card-links {
+            margin-top: auto;
         }
     </style>
 </head>
