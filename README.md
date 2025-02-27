@@ -53,7 +53,7 @@
 | <img src="assets/img/VITRUVION.jpg" width="200"> | Vitruvion: A Generative Model of Parametric CAD Sketches | CVPR 2018 | [Paper](link) <br> [Code](link) <br> [Project](link) |
 | <img src="assets/img/Img2CAD.jpg" width="200"> | Img2CAD: Conditioned 3D CAD Model Generation from Single Image with Structured Visual Geometry | CVPR 2018 | [Paper](link) <br> [Code](link) <br> [Project](link) |
 | <img src="assets/img/Draw_Step_by_Step.jpg" width="200"> | Draw Step by Step: Reconstructing CAD Construction Sequences from Point Clouds via Multimodal Diffusion | CVPR 2024 | [Paper](link) <br> [Code](link) <br> [Project](link) |
-| <img src="assets/img/recode.jpg" width="400"> | CAD-Recode: Reverse Engineering CAD Code from Point Clouds | CVPR 2024 | [Paper](link) <br> [Code](link) <br> [Project](link) |
+| <img src="assets/img/recode.jpg" width="200"> | CAD-Recode: Reverse Engineering CAD Code from Point Clouds | CVPR 2024 | [Paper](link) <br> [Code](link) <br> [Project](link) |
 
 
 ## Analysis
