@@ -7,7 +7,7 @@
 ## Generation
 
 | Preview | Title | Publication | Links |
-|:---:|:---|:---:|:------:|
+|:---:|:---|:---:|:---|
 | <img src="assets/img/CAD-MLLM.jpg" width="260"> | CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM | arXiv 2024 | [Paper](https://arxiv.org/abs/2411.04954) \| [Project](https://cad-mllm.github.io/) |
 | <img src="assets/img/CAD-GPT.jpg" width="260"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | arXiv 2025 | [Paper](https://arxiv.org/abs/2412.19663) \| [Project](https://openiwin.github.io/CAD-GPT/) |
 | <img src="assets/img/FLEXCAD.jpg" width="260"> | FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models | ICLR 2025 | [Paper](https://arxiv.org/abs/2411.05823) |
