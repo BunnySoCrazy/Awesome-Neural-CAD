@@ -82,6 +82,59 @@
             padding-left: 20px;
             border-left: 4px solid #3498db;
         }
+        .main-container {
+            display: flex;
+            gap: 30px;
+        }
+
+        .sidebar {
+            position: sticky;
+            top: 20px;
+            height: fit-content;
+            min-width: 200px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .nav-menu {
+            list-style: none;
+            padding: 0;
+        }
+
+        .nav-menu li {
+            margin: 10px 0;
+        }
+
+        .nav-menu a {
+            text-decoration: none;
+            color: #333;
+            padding: 8px 12px;
+            display: block;
+            border-radius: 4px;
+            transition: all 0.3s ease;
+        }
+
+        .nav-menu a:hover {
+            background: #e9ecef;
+            color: #007bff;
+        }
+
+        .content {
+            flex: 1;
+        }
+
+        /* Add smooth scrolling */
+        html {
+            scroll-behavior: smooth;
+        }
+
+        /* Active state for current section */
+        .nav-menu a.active {
+            background: #007bff;
+            color: white;
+        }
 
     </style>
 </head>
@@ -91,8 +144,20 @@
         <p>The first curated list of Neural CAD papers with visual previews</p>
     </div>
 
+    <div class="main-container">
+        <!-- Sidebar Navigation -->
+        <nav class="sidebar">
+            <ul class="nav-menu">
+                <li><a href="#generation">Generation</a></li>
+                <li><a href="#reconstruction">Reconstruction</a></li>
+                <li><a href="#editing">Editing</a></li>
+                <!-- Add more sections as needed -->
+            </ul>
+        </nav>
+        
     <!-- First Section -->
-    <div class="section">
+    <div class="content">
+        <div id="generation" class="section">
         <h2 class="section-title">Generation</h2>
         <div class="cards-container">
             <div class="card">
