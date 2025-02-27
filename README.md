@@ -8,9 +8,9 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
-| <img src="assets/img/CAD-MLLM.jpg" width="260"> | CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
-| <img src="assets/img/CAD-GPT.jpg" width="260"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
-| <img src="assets/img/FLEXCAD.jpg" width="260"> | FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/CAD-MLLM.jpg" width="260"> | CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM | arXiv 2024 | [Paper](https://arxiv.org/abs/2411.04954) \| [Project](https://cad-mllm.github.io/) |
+| <img src="assets/img/CAD-GPT.jpg" width="260"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | arXiv 2025 | [Paper](https://arxiv.org/abs/2412.19663) \| [Project](https://openiwin.github.io/CAD-GPT/) |
+| <img src="assets/img/FLEXCAD.jpg" width="260"> | FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models | ICLR 2025 | [Paper](https://arxiv.org/abs/2411.05823) |
 | <img src="assets/img/SkexGen.jpg" width="260"> | SkexGen: Autoregressive Generation of CAD Construction Sequences with Disentangled Codebooks | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
 | <img src="assets/img/HNCCAD.jpg" width="260"> | Hierarchical Neural Coding for Controllable CAD Model Generation | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
 | <img src="assets/img/text2CAD.jpg" width="260"> | Text2CAD: Text to 3D CAD Generation via Technical Drawings | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
@@ -24,7 +24,6 @@
 | <img src="assets/img/SketchGen.jpg" width="260"> | SketchGen: Generating Constrained CAD Sketches | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
 | <img src="assets/img/Sketch_Generation.jpg" width="260"> | Engineering Sketch Generation for Computer-Aided Design | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
 | <img src="assets/img/Free2CAD.jpg" width="260"> | Free2CAD: Parsing Freehand Drawings into CAD Commands | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
-<!-- | <img src="assets/img/RECAD.jpg" width="260"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) | -->
 
 ## Reconstruction
 
@@ -55,7 +54,6 @@
 | <img src="assets/img/Img2CAD.jpg" width="200"> | Img2CAD: Conditioned 3D CAD Model Generation from Single Image with Structured Visual Geometry | CVPR 2018 | [Paper](link) \| [Code](link) \| [Demo](link) |
 | <img src="assets/img/Draw_Step_by_Step.jpg" width="200"> | Draw Step by Step: Reconstructing CAD Construction Sequences from Point Clouds via Multimodal Diffusion | CVPR 2024 | [Paper](link) \| [Code](link) \| [Demo](link) |
 | <img src="assets/img/recode.jpg" width="260"> | CAD-Recode: Reverse Engineering CAD Code from Point Clouds | CVPR 2024 | [Paper](link) \| [Code](link) \| [Project](link) |
-<!-- | <img src="assets/img/csgnet.jpg" width="200"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](link) \| [Code](link) \| [Demo](link) | -->
 
 
 ## Analysis
@@ -66,7 +64,6 @@
 | <img src="assets/img/BRepNet.jpg" width="200"> | BRepNet: A Topological Message Passing System for Solid Models | CVPR 2021 | [Paper](link) \| [Code](link) \| [Demo](link) |
 
 
-
 ## Others
 
 | Preview | Title | Publication | Links |
@@ -74,17 +71,3 @@
 | <img src="assets/img/JoinABLe.jpg" width="200"> | JoinABLe: Learning Bottom-up Assembly of Parametric CAD Joints | CVPR 2022 | [Paper](link) \| [Code](link) \| [Project](link) |
 | <img src="assets/img/CAD-Editor.jpg" width="200"> | CAD-Editor: Text-based CAD Editing through Adapting Large Language Models with Synthetic Data | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
 
-
-<!-- ## Representation
-
-| Preview | Title | Publication | Links |
-|:---:|:---|:---:|:---:|
-| <img src="assets/img/CAD-GPT.jpg" width="200"> | Title of Paper 1: A Novel Approach | CVPR 2024 | [Paper](link) \| [Code](link) \| [Project](link) |
-| <img src="assets/img/CAD-GPT.jpg" width="200"> | Title of Paper 2: An Innovative Method | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) | -->
-
-<!-- ## Abstraction
-
-| Preview | Title | Publication | Links |
-|:---:|:---|:---:|:---:|
-| <img src="assets/img/CAD-GPT.jpg" width="200"> | Title of Paper 1: A Novel Approach | CVPR 2024 | [Paper](link) \| [Code](link) \| [Project](link) |
-| <img src="assets/img/CAD-GPT.jpg" width="200"> | Title of Paper 2: An Innovative Method | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) | -->
