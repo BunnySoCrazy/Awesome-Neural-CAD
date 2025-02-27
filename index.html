@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>测试页面</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        h1 {
+            color: #333;
+        }
+        .test-text {
+            color: blue;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>GitHub Pages 测试页面</h1>
+    <p class="test-text">如果你看到这段文字，说明页面已经成功部署！</p>
+    <p>当前时间：<span id="current-time"></span></p>
+
+    <script>
+        // 显示当前时间
+        function updateTime() {
+            const now = new Date();
+            document.getElementById('current-time').textContent = now.toLocaleString();
+        }
+        updateTime();
+        setInterval(updateTime, 1000);
+    </script>
+</body>
+</html>
