@@ -8,22 +8,22 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
-| <img src="assets/img/CAD-GPT.jpg" width="320"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | arXiv 2025 | [Paper](https://arxiv.org/abs/2412.19663) <br> [Project](https://openiwin.github.io/CAD-GPT/) |
-| <img src="assets/img/FLEXCAD.jpg" width="320"> | FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models | ICLR 2025 | [Paper](https://arxiv.org/abs/2411.05823) |
-| <img src="assets/img/SkexGen.jpg" width="320"> | SkexGen: Autoregressive Generation of CAD Construction Sequences with Disentangled Codebooks | ICML 2022 | [Paper](https://arxiv.org/abs/2207.04632) <br> [Code](https://github.com/samxuxiang/SkexGen) <br> [Project](https://samxuxiang.github.io/skexgen) |
-| <img src="assets/img/CAD-MLLM.jpg" width="320"> | CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM | arXiv 2024 | [Paper](https://arxiv.org/abs/2411.04954) <br> [Project](https://cad-mllm.github.io/) |
-| <img src="assets/img/text2CAD.jpg" width="320"> | Text2CAD: Text to 3D CAD Generation via Technical Drawings | NeurIPS 2024 | [Paper](https://arxiv.org/abs/2411.06206) <br> [Code](https://github.com/SadilKhan/Text2CAD) <br> [Project](https://sadilkhan.github.io/text2cad-project/) |
-| <img src="assets/img/BrepGen.jpg" width="320"> | BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry | SIGGRAPH 2024 | [Paper](https://arxiv.org/abs/2401.15563) <br> [Code](https://github.com/samxuxiang/BrepGen) |
-| <img src="assets/img/SolidGen.jpg" width="320"> | SolidGen: An Autoregressive Model for Direct B-rep Synthesis | ICLR 2024 | [Paper](https://openreview.net/pdf?id=ZR2CDgADRo) |
-| <img src="assets/img/SketchGen.jpg" width="320"> | SketchGen: Generating Constrained CAD Sketches | ICCV 2023 | [Paper](link) <br> [Code](link) <br> [Project](link) |
-| <img src="assets/img/HNCCAD.jpg" width="320"> | Hierarchical Neural Coding for Controllable CAD Model Generation | ICML 2023 | [Paper](https://arxiv.org/abs/2307.00149) <br> [Code](https://github.com/samxuxiang/hnc-cad) <br> [Project](https://hnc-cad.github.io/) |
-| <img src="assets/img/Free2CAD.jpg" width="320"> | Free2CAD: Parsing Freehand Drawings into CAD Commands | SIGGRAPH 2022 | [Code](https://github.com/Enigma-li/Free2CAD) <br> [Project](https://geometry.cs.ucl.ac.uk/projects/2022/free2cad/) |
-| <img src="assets/img/DeepCAD.jpg" width="320"> | DeepCAD: A Deep Generative Network for Computer-Aided Design Models | ICCV 2021| [Paper](https://arxiv.org/abs/2105.09492) <br> [Code](https://github.com/ChrisWu1997/DeepCAD) <br> [Project](http://www.cs.columbia.edu/cg/deepcad/) |
-| <img src="assets/img/Sketch_Generation.jpg" width="320"> | Engineering Sketch Generation for Computer-Aided Design | CVPR 2021 workshop | [Paper](https://openaccess.thecvf.com/content/CVPR2021W/SketchDL/papers/Willis_Engineering_Sketch_Generation_for_Computer-Aided_Design_CVPRW_2021_paper.pdf) |
-| <img src="assets/img/DontMeshwithMe.jpg" width="320"> | Don’t Mesh with Me: Generating Constructive Solid Geometry Instead of Meshes by Fine-Tuning a Code-Generation LLM | arXiv 2024 | [Paper](https://arxiv.org/abs/2411.15279) |
-| <img src="assets/img/SDM-NET.jpg" width="320"> | SDM-NET: Deep Generative Network for Structured Deformable Mesh | TOG 2019 | [Paper](https://dl.acm.org/doi/pdf/10.1145/3355089.3356488) <br> [Code](https://github.com/gaolinorange/SDMNET_stamp) |
-| <img src="assets/img/StructureNet.jpg" width="320"> | StructureNet: Hierarchical Graph Networks for 3D Shape Generation | Siggraph Asia 2019 | [Paper](https://arxiv.org/abs/1908.00575) <br> [Code](https://github.com/daerduoCarey/structurenet) <br> [Project](https://cs.stanford.edu/~kaichun/structurenet/) |
-| <img src="assets/img/AtlasNet.jpg" width="320"> | AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation | CVPR 2018 | [Paper](https://arxiv.org/abs/1802.05384) <br> [Code](https://github.com/ThibaultGROUEIX/AtlasNet) <br> [Project](https://imagine.enpc.fr/~groueixt/atlasnet/) |
+| <img src="assets/img/CAD-GPT.jpg" width="400"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | arXiv 2025 | [Paper](https://arxiv.org/abs/2412.19663) <br> [Project](https://openiwin.github.io/CAD-GPT/) |
+| <img src="assets/img/FLEXCAD.jpg" width="400"> | FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models | ICLR 2025 | [Paper](https://arxiv.org/abs/2411.05823) |
+| <img src="assets/img/SkexGen.jpg" width="400"> | SkexGen: Autoregressive Generation of CAD Construction Sequences with Disentangled Codebooks | ICML 2022 | [Paper](https://arxiv.org/abs/2207.04632) <br> [Code](https://github.com/samxuxiang/SkexGen) <br> [Project](https://samxuxiang.github.io/skexgen) |
+| <img src="assets/img/CAD-MLLM.jpg" width="400"> | CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM | arXiv 2024 | [Paper](https://arxiv.org/abs/2411.04954) <br> [Project](https://cad-mllm.github.io/) |
+| <img src="assets/img/text2CAD.jpg" width="400"> | Text2CAD: Text to 3D CAD Generation via Technical Drawings | NeurIPS 2024 | [Paper](https://arxiv.org/abs/2411.06206) <br> [Code](https://github.com/SadilKhan/Text2CAD) <br> [Project](https://sadilkhan.github.io/text2cad-project/) |
+| <img src="assets/img/BrepGen.jpg" width="400"> | BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry | SIGGRAPH 2024 | [Paper](https://arxiv.org/abs/2401.15563) <br> [Code](https://github.com/samxuxiang/BrepGen) |
+| <img src="assets/img/SolidGen.jpg" width="400"> | SolidGen: An Autoregressive Model for Direct B-rep Synthesis | ICLR 2024 | [Paper](https://openreview.net/pdf?id=ZR2CDgADRo) |
+| <img src="assets/img/SketchGen.jpg" width="400"> | SketchGen: Generating Constrained CAD Sketches | ICCV 2023 | [Paper](link) <br> [Code](link) <br> [Project](link) |
+| <img src="assets/img/HNCCAD.jpg" width="400"> | Hierarchical Neural Coding for Controllable CAD Model Generation | ICML 2023 | [Paper](https://arxiv.org/abs/2307.00149) <br> [Code](https://github.com/samxuxiang/hnc-cad) <br> [Project](https://hnc-cad.github.io/) |
+| <img src="assets/img/Free2CAD.jpg" width="400"> | Free2CAD: Parsing Freehand Drawings into CAD Commands | SIGGRAPH 2022 | [Code](https://github.com/Enigma-li/Free2CAD) <br> [Project](https://geometry.cs.ucl.ac.uk/projects/2022/free2cad/) |
+| <img src="assets/img/DeepCAD.jpg" width="400"> | DeepCAD: A Deep Generative Network for Computer-Aided Design Models | ICCV 2021| [Paper](https://arxiv.org/abs/2105.09492) <br> [Code](https://github.com/ChrisWu1997/DeepCAD) <br> [Project](http://www.cs.columbia.edu/cg/deepcad/) |
+| <img src="assets/img/Sketch_Generation.jpg" width="400"> | Engineering Sketch Generation for Computer-Aided Design | CVPR 2021 workshop | [Paper](https://openaccess.thecvf.com/content/CVPR2021W/SketchDL/papers/Willis_Engineering_Sketch_Generation_for_Computer-Aided_Design_CVPRW_2021_paper.pdf) |
+| <img src="assets/img/DontMeshwithMe.jpg" width="400"> | Don’t Mesh with Me: Generating Constructive Solid Geometry Instead of Meshes by Fine-Tuning a Code-Generation LLM | arXiv 2024 | [Paper](https://arxiv.org/abs/2411.15279) |
+| <img src="assets/img/SDM-NET.jpg" width="400"> | SDM-NET: Deep Generative Network for Structured Deformable Mesh | TOG 2019 | [Paper](https://dl.acm.org/doi/pdf/10.1145/3355089.3356488) <br> [Code](https://github.com/gaolinorange/SDMNET_stamp) |
+| <img src="assets/img/StructureNet.jpg" width="400"> | StructureNet: Hierarchical Graph Networks for 3D Shape Generation | Siggraph Asia 2019 | [Paper](https://arxiv.org/abs/1908.00575) <br> [Code](https://github.com/daerduoCarey/structurenet) <br> [Project](https://cs.stanford.edu/~kaichun/structurenet/) |
+| <img src="assets/img/AtlasNet.jpg" width="400"> | AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation | CVPR 2018 | [Paper](https://arxiv.org/abs/1802.05384) <br> [Code](https://github.com/ThibaultGROUEIX/AtlasNet) <br> [Project](https://imagine.enpc.fr/~groueixt/atlasnet/) |
 
 ## Reconstruction
 
@@ -53,7 +53,7 @@
 | <img src="assets/img/VITRUVION.jpg" width="200"> | Vitruvion: A Generative Model of Parametric CAD Sketches | CVPR 2018 | [Paper](link) <br> [Code](link) <br> [Project](link) |
 | <img src="assets/img/Img2CAD.jpg" width="200"> | Img2CAD: Conditioned 3D CAD Model Generation from Single Image with Structured Visual Geometry | CVPR 2018 | [Paper](link) <br> [Code](link) <br> [Project](link) |
 | <img src="assets/img/Draw_Step_by_Step.jpg" width="200"> | Draw Step by Step: Reconstructing CAD Construction Sequences from Point Clouds via Multimodal Diffusion | CVPR 2024 | [Paper](link) <br> [Code](link) <br> [Project](link) |
-| <img src="assets/img/recode.jpg" width="320"> | CAD-Recode: Reverse Engineering CAD Code from Point Clouds | CVPR 2024 | [Paper](link) <br> [Code](link) <br> [Project](link) |
+| <img src="assets/img/recode.jpg" width="400"> | CAD-Recode: Reverse Engineering CAD Code from Point Clouds | CVPR 2024 | [Paper](link) <br> [Code](link) <br> [Project](link) |
 
 
 ## Analysis
