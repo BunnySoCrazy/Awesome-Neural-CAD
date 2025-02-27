@@ -58,6 +58,13 @@
 | <img src="assets/img/csgnet.jpg" width="300"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](https://arxiv.org/abs/1712.08290) <br> [Code](https://github.com/Hippogriff/CSGNet) |
 
 
+## Abstraction
+
+| Preview | Title | Publication | Links |
+|:---:|:---|:---:|:---:|
+| <img src="assets/img/Superquadrics.jpg" width="210"> | UV-Net: Learning from Boundary Representations | CVPR 2019 | [Paper](https://arxiv.org/abs/1904.09970) <br> [Code](https://github.com/paschalidoud/superquadric_parsing) <br> [Project](https://superquadrics.com/learnable-superquadrics.html) |
+| <img src="assets/img/BRepNet.jpg" width="210"> | SweepNet: Unsupervised Learning Shape Abstraction via Neural Sweepers | ECCV 2024 | [Paper](https://arxiv.org/pdf/2407.06305) <br> [Code](https://github.com/mingrui-zhao/SweepNet/tree/code) <br> [Project](https://mingrui-zhao.github.io/SweepNet/) |
+
 ## Analysis
 
 | Preview | Title | Publication | Links |
