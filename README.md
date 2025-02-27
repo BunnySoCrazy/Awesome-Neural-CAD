@@ -64,6 +64,7 @@
 |:---:|:---|:---:|:---:|
 | <img src="assets/img/SweepNet.jpg" width="230"> | SweepNet: Unsupervised Learning Shape Abstraction via Neural Sweepers | ECCV 2024 | [Paper](https://arxiv.org/pdf/2407.06305) <br> [Code](https://github.com/mingrui-zhao/SweepNet/tree/code) <br> [Project](https://mingrui-zhao.github.io/SweepNet/) |
 | <img src="assets/img/Superquadrics.jpg" width="230"> | Superquadrics Revisited: Learning 3D Shape Parsing beyond Cuboids | CVPR 2019 | [Paper](https://arxiv.org/abs/1904.09970) <br> [Code](https://github.com/paschalidoud/superquadric_parsing) <br> [Project](https://superquadrics.com/learnable-superquadrics.html) |
+| <img src="assets/img/Volumetric_Primitives.jpg" width="230"> | Learning Shape Abstractions by Assembling Volumetric Primitives | CVPR 2017 | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Tulsiani_Learning_Shape_Abstractions_CVPR_2017_paper.pdf) <br> [Code](https://github.com/shubhtuls/volumetricPrimitives) <br> [Project](https://shubhtuls.github.io/volumetricPrimitives/) |
 
 ## Analysis
 
