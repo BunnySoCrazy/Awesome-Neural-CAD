@@ -68,6 +68,6 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
-| <img src="assets/img/CAD-Editor.jpg" width="250"> | CAD-Editor: Text-based CAD Editing through Adapting Large Language Models with Synthetic Data | arXiv 2025 | [Paper](https://arxiv.org/abs/2502.03997) |
-| <img src="assets/img/JoinABLe.jpg" width="250"> | JoinABLe: Learning Bottom-up Assembly of Parametric CAD Joints | CVPR 2022 | [Paper](https://arxiv.org/abs/2111.12772) <br> [Code](https://github.com/AutodeskAILab/JoinABLe) |
+| <img src="assets/img/CAD-Editor.jpg" width="300"> | CAD-Editor: Text-based CAD Editing through Adapting Large Language Models with Synthetic Data | arXiv 2025 | [Paper](https://arxiv.org/abs/2502.03997) |
+| <img src="assets/img/JoinABLe.jpg" width="300"> | JoinABLe: Learning Bottom-up Assembly of Parametric CAD Joints | CVPR 2022 | [Paper](https://arxiv.org/abs/2111.12772) <br> [Code](https://github.com/AutodeskAILab/JoinABLe) |
 
