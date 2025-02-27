@@ -29,12 +29,12 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
-| <img src="assets/img/BSP-Net.jpg" width="200"> | BSP-Net: Generating Compact Meshes via Binary Space Partitioning | CVPR 2024 | [Paper](link) <br> [Code](link) <br> [Project](link) |
-| <img src="assets/img/capri.jpg" width="200"> | CAPRI-Net: Learning Compact CAD Shapes with Adaptive Primitive Assembly | ICCV 2023 | [Paper](link) <br> [Code](link) <br> [Project](link) |
-| <img src="assets/img/D2CSG.jpg" width="200"> | D2CSG: Unsupervised Learning of Compact CSG Trees with Dual Complements and Dropouts | ICCV 2023 | [Paper](link) <br> [Code](link) <br> [Project](link) |
-| <img src="assets/img/CSG-Stump.jpg" width="200"> | CSG-Stump: A Learning Friendly CSG-Like Representation for Interpretable Shape Parsing | ICCV 2021 | [Paper](link) <br> [Code](link) <br> [Project](link) |
-| <img src="assets/img/csgnet.jpg" width="200"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](link) <br> [Code](link) <br> [Project](link) |
-| <img src="assets/img/ucsgnet.jpg" width="200"> | UCSG-Net -- Unsupervised Discovering of Constructive Solid Geometry Tree | CVPR 2018 | [Paper](link) <br> [Code](link) <br> [Project](link) |
+| <img src="assets/img/BSP-Net.jpg" width="200"> | BSP-Net: Generating Compact Meshes via Binary Space Partitioning | CVPR 2020 oral | [Paper](https://arxiv.org/pdf/1911.06971.pdf) <br> [Code](https://github.com/czq142857/BSP-NET-pytorch) <br> [Project](https://bsp-net.github.io/) |
+| <img src="assets/img/capri.jpg" width="200"> | CAPRI-Net: Learning Compact CAD Shapes with Adaptive Primitive Assembly | CVPR 2022 | [Paper](https://arxiv.org/abs/2104.05652) <br> [Code](https://github.com/FENGGENYU/CAPRI-Net) <br> [Project](https://fenggenyu.github.io/capri.html) |
+| <img src="assets/img/D2CSG.jpg" width="200"> | D2CSG: Unsupervised Learning of Compact CSG Trees with Dual Complements and Dropouts | Neurips 2024 | [Paper](https://openreview.net/pdf?id=tQYGjnxPOm) <br> [Code](https://github.com/FENGGENYU/D2CSG)|
+| <img src="assets/img/CSG-Stump.jpg" width="200"> | CSG-Stump: A Learning Friendly CSG-Like Representation for Interpretable Shape Parsing | ICCV 2021 | [Paper](https://arxiv.org/abs/2108.11305) <br> [Code](https://github.com/kimren227/CSGStumpNet) <br> [Project](https://kimren227.github.io/projects/CSGStump/) |
+| <img src="assets/img/csgnet.jpg" width="200"> | CSGNet: Neural Shape Parser for Constructive Solid Geometry | CVPR 2018 | [Paper](https://arxiv.org/abs/1712.08290) <br> [Code](https://github.com/Hippogriff/CSGNet) |
+| <img src="assets/img/ucsgnet.jpg" width="200"> | UCSG-Net -- Unsupervised Discovering of Constructive Solid Geometry Tree | CVPR 2018 | [Paper](https://arxiv.org/abs/2006.09102) <br> [Code](https://github.com/kacperkan/ucsgnet) <br> [Project](https://kacperkan.github.io/ucsgnet/) |
 | <img src="assets/img/rounded_voxel.jpg" width="200"> | Reconstructing editable prismatic CAD from rounded voxel models | CVPR 2018 | [Paper](link) <br> [Code](link) <br> [Project](link) |
 | <img src="assets/img/Point2Cyl.jpg" width="200"> | Point2Cyl: Reverse Engineering 3D Objects from Point Clouds to Extrusion Cylinders | CVPR 2018 | [Paper](link) <br> [Code](link) <br> [Project](link) |
 | <img src="assets/img/SECAD.jpg" width="200"> | SECAD-Net: Self-Supervised CAD Reconstruction by Learning Sketch-Extrude Operations | CVPR 2018 | [Paper](link) <br> [Code](link) <br> [Project](link) |
