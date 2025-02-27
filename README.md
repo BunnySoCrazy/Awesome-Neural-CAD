@@ -7,15 +7,15 @@ The first curated list of Neural CAD papers that incorporates visual previews, m
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
 | <img src="assets/img/recode.jpg" width="260"> | CAD-Recode: Reverse Engineering CAD Code from Point Clouds | CVPR 2024 | [Paper](link) \| [Code](link) \| [Project](link) |
-| <img src="assets/img/CAD-MLLM.jpg" width="260"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/CAD-MLLM.jpg" width="260"> | CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
 | <img src="assets/img/CAD-GPT.jpg" width="260"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
-| <img src="assets/img/DeepCAD.jpg" width="260"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
-| <img src="assets/img/SkexGen.jpg" width="260"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
-| <img src="assets/img/HNCCAD.jpg" width="260"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
-| <img src="assets/img/text2CAD.jpg" width="260"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
-| <img src="assets/img/RECAD.jpg" width="260"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
-| <img src="assets/img/BrepGen.jpg" width="260"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
-| <img src="assets/img/SolidGen.jpg" width="260"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/DeepCAD.jpg" width="260"> | DeepCAD: A Deep Generative Network for Computer-Aided Design Models | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/SkexGen.jpg" width="260"> | SkexGen: Autoregressive Generation of CAD Construction Sequences with Disentangled Codebooks | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/HNCCAD.jpg" width="260"> | Hierarchical Neural Coding for Controllable CAD Model Generation | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/text2CAD.jpg" width="260"> | Text2CAD: Text to 3D CAD Generation via Technical Drawings | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/BrepGen.jpg" width="260"> | BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
+| <img src="assets/img/SolidGen.jpg" width="260"> | SolidGen: An Autoregressive Model for Direct B-rep Synthesis | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) |
+<!-- | <img src="assets/img/RECAD.jpg" width="260"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | ICCV 2023 | [Paper](link) \| [Code](link) \| [Demo](link) | -->
 
 ## Reconstruction
 
