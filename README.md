@@ -18,12 +18,12 @@
 | <img src="assets/img/SolidGen.jpg" width="300"> | SolidGen: An Autoregressive Model for Direct B-rep Synthesis | ICLR 2024 | [Paper](https://openreview.net/pdf?id=ZR2CDgADRo) |
 | <img src="assets/img/DeepCAD.jpg" width="300"> | DeepCAD: A Deep Generative Network for Computer-Aided Design Models | ICCV 2021| [Paper](https://arxiv.org/abs/2105.09492) <br> [Code](https://github.com/ChrisWu1997/DeepCAD) <br> [Project](http://www.cs.columbia.edu/cg/deepcad/) |
 | <img src="assets/img/DontMeshwithMe.jpg" width="300"> | Don’t Mesh with Me: Generating Constructive Solid Geometry Instead of Meshes by Fine-Tuning a Code-Generation LLM | arXiv 2024 | [Paper](https://arxiv.org/abs/2411.15279) |
-| <img src="assets/img/AtlasNet.jpg" width="300"> | AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation | ICCV 2023 | [Paper]() <br> [Code](link) <br> [Demo](link) |
-| <img src="assets/img/SDM-NET.jpg" width="300"> | SDM-NET: Deep Generative Network for Structured Deformable Mesh | ICCV 2023 | [Paper](link) <br> [Code](link) <br> [Demo](link) |
-| <img src="assets/img/StructureNet.jpg" width="300"> | StructureNet: Hierarchical Graph Networks for 3D Shape Generation | ICCV 2023 | [Paper](link) <br> [Code](link) <br> [Demo](link) |
+| <img src="assets/img/AtlasNet.jpg" width="300"> | AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation | CVPR 2018 | [Paper](https://arxiv.org/abs/1802.05384) <br> [Code](https://github.com/ThibaultGROUEIX/AtlasNet) <br> [Project](https://imagine.enpc.fr/~groueixt/atlasnet/) |
+| <img src="assets/img/SDM-NET.jpg" width="300"> | SDM-NET: Deep Generative Network for Structured Deformable Mesh | TOG 2019 | [Paper](https://dl.acm.org/doi/pdf/10.1145/3355089.3356488) <br> [Code](https://github.com/gaolinorange/SDMNET_stamp) |
+| <img src="assets/img/StructureNet.jpg" width="300"> | StructureNet: Hierarchical Graph Networks for 3D Shape Generation | Siggraph Asia 2019 | [Paper](https://arxiv.org/abs/1908.00575) <br> [Code](https://github.com/daerduoCarey/structurenet) <br> [Demo](https://cs.stanford.edu/~kaichun/structurenet/) |
 | <img src="assets/img/SketchGen.jpg" width="300"> | SketchGen: Generating Constrained CAD Sketches | ICCV 2023 | [Paper](link) <br> [Code](link) <br> [Demo](link) |
-| <img src="assets/img/Sketch_Generation.jpg" width="300"> | Engineering Sketch Generation for Computer-Aided Design | ICCV 2023 | [Paper](link) <br> [Code](link) <br> [Demo](link) |
-| <img src="assets/img/Free2CAD.jpg" width="300"> | Free2CAD: Parsing Freehand Drawings into CAD Commands | ICCV 2023 | [Paper](link) <br> [Code](link) <br> [Demo](link) |
+| <img src="assets/img/Sketch_Generation.jpg" width="300"> | Engineering Sketch Generation for Computer-Aided Design | CVPR 2021 workshop | [Paper](https://openaccess.thecvf.com/content/CVPR2021W/SketchDL/papers/Willis_Engineering_Sketch_Generation_for_Computer-Aided_Design_CVPRW_2021_paper.pdf) |
+| <img src="assets/img/Free2CAD.jpg" width="300"> | Free2CAD: Parsing Freehand Drawings into CAD Commands | SIGGRAPH 2022 | [Code](https://github.com/Enigma-li/Free2CAD) <br> [Demo](https://geometry.cs.ucl.ac.uk/projects/2022/free2cad/) |
 
 ## Reconstruction
 
