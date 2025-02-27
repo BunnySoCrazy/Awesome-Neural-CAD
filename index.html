@@ -1,36 +1,104 @@
 <!DOCTYPE html>
-<html lang="zh">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>测试页面</title>
+    <title>Awesome Neural CAD</title>
     <style>
         body {
             font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .header {
             text-align: center;
-            margin-top: 50px;
+            margin-bottom: 40px;
         }
-        h1 {
-            color: #333;
+        .cards-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
         }
-        .test-text {
-            color: blue;
-            margin: 20px;
+        .card {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            overflow: hidden;
+            transition: transform 0.3s ease;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+        }
+        .card img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+        .card-content {
+            padding: 15px;
+        }
+        .card-title {
+            font-size: 1.1em;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .card-info {
+            font-size: 0.9em;
+            color: #666;
+            margin-bottom: 10px;
+        }
+        .card-links a {
+            display: inline-block;
+            margin-right: 10px;
+            color: #0366d6;
+            text-decoration: none;
+        }
+        .card-links a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
-    <h1>GitHub Pages 测试页面</h1>
-    <p class="test-text">如果你看到这段文字，说明页面已经成功部署！</p>
-    <p>当前时间：<span id="current-time"></span></p>
+    <div class="header">
+        <h1>Awesome Neural CAD</h1>
+        <p>The first curated list of Neural CAD papers with visual previews</p>
+    </div>
 
-    <script>
-        // 显示当前时间
-        function updateTime() {
-            const now = new Date();
-            document.getElementById('current-time').textContent = now.toLocaleString();
-        }
-        updateTime();
-        setInterval(updateTime, 1000);
-    </script>
+    <div class="cards-container">
+        <div class="card">
+            <img src="assets/img/CAD-GPT.jpg" alt="CAD-GPT">
+            <div class="card-content">
+                <div class="card-title">CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs</div>
+                <div class="card-info">arXiv 2025</div>
+                <div class="card-links">
+                    <a href="https://arxiv.org/abs/2412.19663">Paper</a>
+                    <a href="https://openiwin.github.io/CAD-GPT/">Project</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="assets/img/FLEXCAD.jpg" alt="FlexCAD">
+            <div class="card-content">
+                <div class="card-title">FlexCAD: Unified and Versatile Controllable CAD Generation</div>
+                <div class="card-info">ICLR 2025</div>
+                <div class="card-links">
+                    <a href="https://arxiv.org/abs/2411.05823">Paper</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="assets/img/DontMeshwithMe.jpg" alt="Don't Mesh with Me">
+            <div class="card-content">
+                <div class="card-title">Don't Mesh with Me: Generating Constructive Solid Geometry Instead of Meshes</div>
+                <div class="card-info">arXiv 2024</div>
+                <div class="card-links">
+                    <a href="https://arxiv.org/abs/2411.15279">Paper</a>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 </html>
