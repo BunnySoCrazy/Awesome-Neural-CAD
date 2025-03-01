@@ -1,6 +1,6 @@
 # Awesome Neural CAD [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> 🎯 The first curated list of Neural CAD papers that incorporates visual previews, making it easier to grasp key insights at a glance.
+> 🎯 The ***first*** awesome list featuring visual paper previews - see research at a glance.
 
 > 📚 We have also included a selection of papers that, while not strictly falling within the CAD domain, demonstrate relevant techniques and methodologies that could benefit CAD research and applications.
 
