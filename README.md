@@ -37,7 +37,7 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
-| <img src="assets/img/BGPSeg.jpg" width="300"> | BGPSeg: Boundary-Guided Primitive Instance Segmentation of Point Clouds | TIP 2025 | [Paper](hhttps://ieeexplore.ieee.org/abstract/document/10896454)|
+| <img src="assets/img/BGPSeg.jpg" width="300"> | BGPSeg: Boundary-Guided Primitive Instance Segmentation of Point Clouds | TIP 2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/10896454) |
 | <img src="assets/img/recode.jpg" width="300"> | CAD-Recode: Reverse Engineering CAD Code from Point Clouds | arXiv 2024 | [Paper](https://arxiv.org/pdf/2412.14042) <br> [Code](https://github.com/filaPro/cad-recode) |
 | <img src="assets/img/Img2CAD.jpg" width="300"> | Img2CAD: Conditioned 3D CAD Model Generation from Single Image with Structured Visual Geometry | arXiv 2024 | [Paper](https://arxiv.org/pdf/2410.03417) |
 | <img src="assets/img/PS-CAD.jpg" width="300"> | PS-CAD: Local Geometry Guidance via Prompting and Selection for CAD Reconstruction | arXiv 2024 | [Paper](https://arxiv.org/pdf/2405.15188) |
