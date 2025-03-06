@@ -1,5 +1,5 @@
 <head>
-<meta name="google-site-verification" content="你的验证码" />
+<meta name="google-site-verification" content="tqrUKB0nU6GrEyWS1wJV32TrWGZmF3-OfhZ1mCGXy0E" />
 </head>
 
 
