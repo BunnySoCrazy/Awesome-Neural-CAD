@@ -10,6 +10,7 @@
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
 | <img src="assets/img/CAD-GPT.jpg" width="400"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | arXiv 2025 | [Paper](https://arxiv.org/abs/2412.19663) <br> [Project](https://openiwin.github.io/CAD-GPT/) |
+| <img src="assets/img/RECAD.jpg" width="400"> | Revisiting CAD Model Generation by Learning Raster Sketch | AAAI   2025 | [Paper](https://www.arxiv.org/abs/2503.00928) |
 | <img src="assets/img/FLEXCAD.jpg" width="400"> | FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models | ICLR 2025 | [Paper](https://arxiv.org/abs/2411.05823) |
 | <img src="assets/img/DontMeshwithMe.jpg" width="400"> | Don’t Mesh with Me: Generating Constructive Solid Geometry Instead of Meshes by Fine-Tuning a Code-Generation LLM | arXiv 2024 | [Paper](https://arxiv.org/abs/2411.15279) |
 | <img src="assets/img/CAD-MLLM.jpg" width="400"> | CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM | arXiv 2024 | [Paper](https://arxiv.org/abs/2411.04954) <br> [Project](https://cad-mllm.github.io/) |
