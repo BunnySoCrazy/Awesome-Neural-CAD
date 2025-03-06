@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="tqrUKB0nU6GrEyWS1wJV32TrWGZmF3-OfhZ1mCGXy0E" />
 <head>
 <meta name="google-site-verification" content="tqrUKB0nU6GrEyWS1wJV32TrWGZmF3-OfhZ1mCGXy0E" />
 </head>
