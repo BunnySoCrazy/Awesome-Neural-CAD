@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="tqrUKB0nU6GrEyWS1wJV32TrWGZmF3-OfhZ1mCGXy0E" />
 # Awesome Neural CAD [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > 🎯 The ***first*** awesome list featuring visual paper previews - see research at a glance.
@@ -119,4 +120,4 @@
 | <img src="assets/img/DeepCAD.jpg" width="300"> | DeepCAD: A Deep Generative Network for Computer-Aided Design Models | ICCV 2021 | [Paper](https://arxiv.org/abs/2105.09492) <br> [Code](https://github.com/ChrisWu1997/DeepCAD) <br> [Project](http://www.cs.columbia.edu/cg/deepcad/) |
 | <img src="assets/img/ABC.jpg" width="300"> | ABC: A Big CAD Model Dataset For Geometric Deep Learning | CVPR 2019 | [Paper](https://arxiv.org/abs/2105.09492) <br> [Project](https://deep-geometry.github.io/abc-dataset/) |
 
-<meta name="google-site-verification" content="tqrUKB0nU6GrEyWS1wJV32TrWGZmF3-OfhZ1mCGXy0E" />
+
