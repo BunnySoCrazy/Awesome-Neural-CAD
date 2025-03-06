@@ -118,3 +118,5 @@
 | <img src="assets/img/Fusion360_segmentation.jpg" width="300"> | Fusion 360 Gallery: A Dataset and Environment for Programmatic CAD Construction from Human Design Sequences (Segmentation Dataset) | CVPR 2021 | [Paper](https://arxiv.org/abs/2104.00706) <br> [Project](https://github.com/AutodeskAILab/Fusion360GalleryDataset) |
 | <img src="assets/img/DeepCAD.jpg" width="300"> | DeepCAD: A Deep Generative Network for Computer-Aided Design Models | ICCV 2021 | [Paper](https://arxiv.org/abs/2105.09492) <br> [Code](https://github.com/ChrisWu1997/DeepCAD) <br> [Project](http://www.cs.columbia.edu/cg/deepcad/) |
 | <img src="assets/img/ABC.jpg" width="300"> | ABC: A Big CAD Model Dataset For Geometric Deep Learning | CVPR 2019 | [Paper](https://arxiv.org/abs/2105.09492) <br> [Project](https://deep-geometry.github.io/abc-dataset/) |
+
+<meta name="google-site-verification" content="tqrUKB0nU6GrEyWS1wJV32TrWGZmF3-OfhZ1mCGXy0E" />
