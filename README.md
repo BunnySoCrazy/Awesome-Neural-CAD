@@ -5,7 +5,7 @@
 
 > 📚 We have also included a selection of papers that, while not strictly falling within the CAD domain, demonstrate relevant techniques and methodologies that could benefit CAD research and applications.
 
-> 🏠 You can also check our [Project Homepage](https://bunnysocrazy.github.io/Awesome-Neural-CAD/).
+> 🏠 You can also check our [Project Homepage](https://bunnysocrazy.com/).
 ## Generation
 
 | Preview | Title | Publication | Links |
