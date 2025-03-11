@@ -148,43 +148,72 @@
             color: white;
         }
 
-.github-button {
-    display: inline-flex;
-    align-items: center;
-    margin-left: 10px;
-    padding: 6px 12px;
-    background-color: #24292e;
-    color: white;
-    text-decoration: none;
-    border-radius: 6px;
-    font-size: 14px;
-    transition: background-color 0.2s;
-}
+        .github-button {
+            display: inline-flex;
+            align-items: center;
+            padding: 6px 14px;
+            background-color: #414141;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 14px;
+            margin-left: 12px;
+            transition: background-color 0.2s;
+        }
 
-.github-button:hover {
-    background-color: #2c343a;
-}
+        .github-button:hover {
+            background-color: #000000;
+        }
 
-.github-button i {
-    margin-right: 6px;
-}
+        .github-button i {
+            font-size: 20px;
+            margin-right: 8px;
+        }
 
-.github-button span {
-    font-weight: 500;
-}
+        .github-button span {
+            font-weight: 500;
+        }
+
+        .title-link {
+            text-decoration: none;
+        }
+        h1 {
+            position: relative;
+            color: #4f4f4f;
+            font-size: 3em;
+        }
+
+        h1::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 0;
+            width: 0;
+            height: 3px;
+            background: linear-gradient(45deg, #2193b0, #6dd5ed);
+            transition: width 0.3s ease;
+        }
+
+        h1:hover::after {
+            width: 100%;
+        }
 
     </style>
     
 </head>
 <body>
     <div class="header">
-        <h1>Awesome Neural CAD</h1>
+        <a href="https://github.com/BunnySoCrazy/Awesome-Neural-CAD" class="title-link">
+            <h1>Awesome Neural CAD</h1>
+        </a>
+
         <p>
             The first curated list of Neural Computer-Aided Design (CAD) papers with visual previews.
-            <a href="https://github.com/BunnySoCrazy/Awesome-Neural-CAD" target="_blank">
-                <i class="fab fa-github"></i>
-            </a>
         </p>
+        <a href="https://github.com/BunnySoCrazy/Awesome-Neural-CAD" class="github-button" target="_blank">
+            <i class="fab fa-github"></i>
+            <span>View on GitHub</span>
+        </a>
     </div>
     
 
