@@ -41,6 +41,7 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
+| <img src="assets/img/CADDreamer.jpg" width="300"> | CADDreamer: CAD object Generation from Single-view Images | CVPR 2025 | [Paper](https://arxiv.org/abs/2502.20732) <br> [Project](https://lidan233.github.io/caddreamer/) |
 | <img src="assets/img/BGPSeg.jpg" width="300"> | BGPSeg: Boundary-Guided Primitive Instance Segmentation of Point Clouds | TIP 2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/10896454) |
 | <img src="assets/img/recode.jpg" width="300"> | CAD-Recode: Reverse Engineering CAD Code from Point Clouds | arXiv 2024 | [Paper](https://arxiv.org/pdf/2412.14042) <br> [Code](https://github.com/filaPro/cad-recode) |
 | <img src="assets/img/Img2CAD.jpg" width="300"> | Img2CAD: Conditioned 3D CAD Model Generation from Single Image with Structured Visual Geometry | arXiv 2024 | [Paper](https://arxiv.org/pdf/2410.03417) |
@@ -100,6 +101,7 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
+| <img src="assets/img/QueryCAD.jpg" width="210"> | QueryCAD: Grounded Question Answering for CAD Models | arxiv 2025 | [Paper](https://arxiv.org/abs/2409.08704) |
 | <img src="assets/img/CADTalk.jpg" width="210"> | CADTalk: An Algorithm and Benchmark for Semantic Commenting of CAD Programs | CVPR 2024 | [Paper](https://arxiv.org/abs/2311.16703) <br> [Code](https://github.com/YYYYYHC/CADTalk)  <br> [Project](https://enigma-li.github.io/CADTalk/) |
 | <img src="assets/img/GAT-CADNet.jpg" width="210"> | GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings | CVPR 2022 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_GAT-CADNet_Graph_Attention_Network_for_Panoptic_Symbol_Spotting_in_CAD_CVPR_2022_paper.pdf) <br> [Code](https://github.com/Liberation-happy/GAT-CADNet) |
 | <img src="assets/img/UV-Net.jpg" width="210"> | UV-Net: Learning from Boundary Representations | CVPR 2021 | [Paper](https://arxiv.org/abs/2006.10211) <br> [Code](https://github.com/AutodeskAILab/UV-Net) |
