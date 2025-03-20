@@ -10,6 +10,7 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
+| <img src="assets/img/CADDreamer.jpg" width="300"> | CADDreamer: CAD object Generation from Single-view Images | CVPR 2025 | [Paper](https://arxiv.org/abs/2502.20732) <br> [Project](https://lidan233.github.io/caddreamer/) |
 | <img src="assets/img/CAD-GPT.jpg" width="400"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | arXiv 2025 | [Paper](https://arxiv.org/abs/2412.19663) <br> [Project](https://openiwin.github.io/CAD-GPT/) |
 | <img src="assets/img/RECAD.jpg" width="400"> | Revisiting CAD Model Generation by Learning Raster Sketch | AAAI   2025 | [Paper](https://www.arxiv.org/abs/2503.00928) |
 | <img src="assets/img/FLEXCAD.jpg" width="400"> | FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models | ICLR 2025 | [Paper](https://arxiv.org/abs/2411.05823) |
@@ -21,6 +22,7 @@
 | <img src="assets/img/LEGO_Micro_Buildings.jpg" width="400"> | Learn to Create Simple LEGO Micro Buildings | SIGGRAPH Asia 2024 | [Paper](https://dlnext.acm.org/doi/pdf/10.1145/3687755) <br> [Code](https://github.com/Occulte/LEGO_Buildings_Generation) |
 | <img src="assets/img/Generating_3D_House_Wireframes.jpg" width="400"> | Generating 3D House Wireframes with Semantics | ECCV 2024 | [Paper](https://arxiv.org/abs/2407.12267) <br> [Project](https://vcc.tech/research/2024/3DWire) |
 | <img src="assets/img/SolidGen.jpg" width="400"> | SolidGen: An Autoregressive Model for Direct B-rep Synthesis | ICLR 2024 | [Paper](https://openreview.net/pdf?id=ZR2CDgADRo) |
+| <img src="assets/img/Brep2Seq.jpg" width="400"> | Brep2Seq: A Dataset and Hierarchical Deep Learning Network for Reconstruction and Generation of Computer-Aided Design Models | JCDE 2024 | [Paper](https://academic.oup.com/jcde/article/11/1/110/7582276)  <br> [Code](https://github.com/zhangshuming0668/Brep2Seq) |
 | <img src="assets/img/vq_diff.jpg" width="400"> | VQ-CAD: Computer-Aided Design model generation with vector quantized diffusion | CAGD 2024 | [Paper](https://www.sciencedirect.com/science/article/pii/S016783962400061X) |
 | <img src="assets/img/PartNeRF.jpg" width="400"> | PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision | CVPR 2023 | [Paper](https://arxiv.org/pdf/2303.09554) <br> [Code](https://github.com/ktertikas/part_nerf)  <br> [Project](https://ktertikas.github.io/part_nerf) |
 | <img src="assets/img/SketchGen.jpg" width="400"> | SketchGen: Generating Constrained CAD Sketches | ICCV 2023 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/28891cb4ab421830acc36b1f5fd6c91e-Paper.pdf) <br> [Code](https://github.com/wamiq-reyaz/sketchgen) |
@@ -42,7 +44,7 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
-| <img src="assets/img/CADDreamer.jpg" width="300"> | CADDreamer: CAD object Generation from Single-view Images | CVPR 2025 | [Paper](https://arxiv.org/abs/2502.20732) <br> [Project](https://lidan233.github.io/caddreamer/) |
+| <img src="assets/img/PaCo.jpg" width="300"> | Parametric Point Cloud Completion for Polygonal Surface Reconstruction | CVPR 2025 | [Paper](https://arxiv.org/pdf/2503.08363) <br> [Project](https://parametric-completion.github.io/) |
 | <img src="assets/img/BGPSeg.jpg" width="300"> | BGPSeg: Boundary-Guided Primitive Instance Segmentation of Point Clouds | TIP 2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/10896454) |
 | <img src="assets/img/recode.jpg" width="300"> | CAD-Recode: Reverse Engineering CAD Code from Point Clouds | arXiv 2024 | [Paper](https://arxiv.org/pdf/2412.14042) <br> [Code](https://github.com/filaPro/cad-recode) |
 | <img src="assets/img/Img2CAD.jpg" width="300"> | Img2CAD: Conditioned 3D CAD Model Generation from Single Image with Structured Visual Geometry | arXiv 2024 | [Paper](https://arxiv.org/pdf/2410.03417) |
@@ -104,8 +106,10 @@
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
 | <img src="assets/img/QueryCAD.jpg" width="210"> | QueryCAD: Grounded Question Answering for CAD Models | arxiv 2025 | [Paper](https://arxiv.org/abs/2409.08704) |
+| <img src="assets/img/BrepMFR.jpg" width="400"> | BrepMFR: Enhancing machining feature recognition in B-rep models through deep learning and domain adaptation | CAGD 2024 | [Paper](https://www.sciencedirect.com/science/article/pii/S0167839624000529)  <br> [Code](https://github.com/zhangshuming0668/BrepMFR) |
 | <img src="assets/img/CADTalk.jpg" width="210"> | CADTalk: An Algorithm and Benchmark for Semantic Commenting of CAD Programs | CVPR 2024 | [Paper](https://arxiv.org/abs/2311.16703) <br> [Code](https://github.com/YYYYYHC/CADTalk)  <br> [Project](https://enigma-li.github.io/CADTalk/) |
 | <img src="assets/img/symmetry_langevin.jpg" width="210"> | Robust Symmetry Detection via Riemannian Langevin Dynamics | SIGGRAPH Asia 2024 | [Paper](https://arxiv.org/pdf/2410.02786) <br> [Code](https://colab.research.google.com/drive/1mzytIuqjgIj2D_K3VTt-qhMtluVdVBGg?usp=sharing)  <br> [Project](https://symmetry-langevin.github.io/) |
+| <img src="assets/img/FuS-GCN.jpg" width="210"> | FuS-GCN: Efficient B-rep based graph convolutional networks for 3D-CAD model classification and retrieval | AEI 2023 | [Paper](https://www.sciencedirect.com/science/article/pii/S1474034623001362)|
 | <img src="assets/img/GAT-CADNet.jpg" width="210"> | GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings | CVPR 2022 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_GAT-CADNet_Graph_Attention_Network_for_Panoptic_Symbol_Spotting_in_CAD_CVPR_2022_paper.pdf) <br> [Code](https://github.com/Liberation-happy/GAT-CADNet) |
 | <img src="assets/img/UV-Net.jpg" width="210"> | UV-Net: Learning from Boundary Representations | CVPR 2021 | [Paper](https://arxiv.org/abs/2006.10211) <br> [Code](https://github.com/AutodeskAILab/UV-Net) |
 | <img src="assets/img/BRepNet.jpg" width="210"> | BRepNet: A Topological Message Passing System for Solid Models | CVPR 2021 | [Paper](https://arxiv.org/abs/2104.00706) <br> [Code](https://github.com/AutodeskAILab/BRepNet) |
