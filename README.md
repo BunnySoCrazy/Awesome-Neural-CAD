@@ -12,8 +12,10 @@
 |:---:|:---|:---:|:---:|
 | <img src="assets/img/CADDreamer.jpg" width="300"> | CADDreamer: CAD object Generation from Single-view Images | CVPR 2025 | [Paper](https://arxiv.org/abs/2502.20732) <br> [Project](https://lidan233.github.io/caddreamer/) |
 | <img src="assets/img/CAD-GPT.jpg" width="400"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | arXiv 2025 | [Paper](https://arxiv.org/abs/2412.19663) <br> [Project](https://openiwin.github.io/CAD-GPT/) |
-| <img src="assets/img/RECAD.jpg" width="400"> | Revisiting CAD Model Generation by Learning Raster Sketch | AAAI   2025 | [Paper](https://www.arxiv.org/abs/2503.00928) |
+| <img src="assets/img/Text-to-CAD.jpg" width="400"> | Text-to-CAD Generation Through Infusing Visual Feedback in Large Language Models | arXiv 2025 | [Paper](https://arxiv.org/abs/2501.19054) |
+| <img src="assets/img/RECAD.jpg" width="400"> | Revisiting CAD Model Generation by Learning Raster Sketch | AAAI 2025 | [Paper](https://www.arxiv.org/abs/2503.00928) |
 | <img src="assets/img/FLEXCAD.jpg" width="400"> | FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models | ICLR 2025 | [Paper](https://arxiv.org/abs/2411.05823) |
+| <img src="assets/img/CAD_Code_Generation.jpg" width="400"> | Generating CAD Code with Vision-Language Models for 3D Designs | ICLR 2025 | [Paper](https://arxiv.org/abs/2410.05340)  <br> [Code](https://github.com/Kamel773/CAD_Code_Generation) |
 | <img src="assets/img/DontMeshwithMe.jpg" width="400"> | Don’t Mesh with Me: Generating Constructive Solid Geometry Instead of Meshes by Fine-Tuning a Code-Generation LLM | arXiv 2024 | [Paper](https://arxiv.org/abs/2411.15279) |
 | <img src="assets/img/CAD-MLLM.jpg" width="400"> | CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM | arXiv 2024 | [Paper](https://arxiv.org/abs/2411.04954) <br> [Project](https://cad-mllm.github.io/) |
 | <img src="assets/img/text2CAD.jpg" width="400"> | Text2CAD: Text to 3D CAD Generation via Technical Drawings | NeurIPS 2024 | [Paper](https://arxiv.org/abs/2411.06206) <br> [Code](https://github.com/SadilKhan/Text2CAD) <br> [Project](https://sadilkhan.github.io/text2cad-project/) |
@@ -119,7 +121,7 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
-| <img src="assets/img/CAD-Editor.jpg" width="300"> | CAD-Editor: Text-based CAD Editing through Adapting Large Language Models with Synthetic Data | arXiv 2025 | [Paper](https://arxiv.org/abs/2502.03997) |
+| <img src="assets/img/CAD-Editor.jpg" width="300"> | CAD-Editor: A Locate-then-Infill Framework with Automated Training Data Synthesis for Text-Based CAD Editing | arXiv 2025 | [Paper](https://arxiv.org/abs/2502.03997) |
 | <img src="assets/img/JoinABLe.jpg" width="300"> | JoinABLe: Learning Bottom-up Assembly of Parametric CAD Joints | CVPR 2022 | [Paper](https://arxiv.org/abs/2111.12772) <br> [Code](https://github.com/AutodeskAILab/JoinABLe) |
 
 
