@@ -10,6 +10,8 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
+| <img src="assets/img/CADCrafter.jpg" width="300"> | CADCrafter: Generating Computer-Aided Design Models from Unconstrained
+ Images | CVPR 2025 | [Paper](https://arxiv.org/pdf/2504.04753)|
 | <img src="assets/img/CADDreamer.jpg" width="300"> | CADDreamer: CAD object Generation from Single-view Images | CVPR 2025 | [Paper](https://arxiv.org/abs/2502.20732) <br> [Project](https://lidan233.github.io/caddreamer/) |
 | <img src="assets/img/CAD-GPT.jpg" width="400"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | arXiv 2025 | [Paper](https://arxiv.org/abs/2412.19663) <br> [Project](https://openiwin.github.io/CAD-GPT/) |
 | <img src="assets/img/Text-to-CAD.jpg" width="400"> | Text-to-CAD Generation Through Infusing Visual Feedback in Large Language Models | arXiv 2025 | [Paper](https://arxiv.org/abs/2501.19054) |
