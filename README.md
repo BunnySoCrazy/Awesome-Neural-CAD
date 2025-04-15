@@ -108,14 +108,14 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
-| <img src="assets/img/QueryCAD.jpg" width="210"> | QueryCAD: Grounded Question Answering for CAD Models | arxiv 2025 | [Paper](https://arxiv.org/abs/2409.08704) |
-| <img src="assets/img/BrepMFR.jpg" width="210"> | BrepMFR: Enhancing machining feature recognition in B-rep models through deep learning and domain adaptation | CAGD 2024 | [Paper](https://www.sciencedirect.com/science/article/pii/S0167839624000529)  <br> [Code](https://github.com/zhangshuming0668/BrepMFR) |
-| <img src="assets/img/CADTalk.jpg" width="210"> | CADTalk: An Algorithm and Benchmark for Semantic Commenting of CAD Programs | CVPR 2024 | [Paper](https://arxiv.org/abs/2311.16703) <br> [Code](https://github.com/YYYYYHC/CADTalk)  <br> [Project](https://enigma-li.github.io/CADTalk/) |
-| <img src="assets/img/symmetry_langevin.jpg" width="210"> | Robust Symmetry Detection via Riemannian Langevin Dynamics | SIGGRAPH Asia 2024 | [Paper](https://arxiv.org/pdf/2410.02786) <br> [Code](https://colab.research.google.com/drive/1mzytIuqjgIj2D_K3VTt-qhMtluVdVBGg?usp=sharing)  <br> [Project](https://symmetry-langevin.github.io/) |
-| <img src="assets/img/FuS-GCN.jpg" width="210"> | FuS-GCN: Efficient B-rep based graph convolutional networks for 3D-CAD model classification and retrieval | AEI 2023 | [Paper](https://www.sciencedirect.com/science/article/pii/S1474034623001362)|
-| <img src="assets/img/GAT-CADNet.jpg" width="210"> | GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings | CVPR 2022 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_GAT-CADNet_Graph_Attention_Network_for_Panoptic_Symbol_Spotting_in_CAD_CVPR_2022_paper.pdf) <br> [Code](https://github.com/Liberation-happy/GAT-CADNet) |
-| <img src="assets/img/UV-Net.jpg" width="210"> | UV-Net: Learning from Boundary Representations | CVPR 2021 | [Paper](https://arxiv.org/abs/2006.10211) <br> [Code](https://github.com/AutodeskAILab/UV-Net) |
-| <img src="assets/img/BRepNet.jpg" width="210"> | BRepNet: A Topological Message Passing System for Solid Models | CVPR 2021 | [Paper](https://arxiv.org/abs/2104.00706) <br> [Code](https://github.com/AutodeskAILab/BRepNet) |
+| <img src="assets/img/QueryCAD.jpg" width="310"> | QueryCAD: Grounded Question Answering for CAD Models | arxiv 2025 | [Paper](https://arxiv.org/abs/2409.08704) |
+| <img src="assets/img/BrepMFR.jpg" width="310"> | BrepMFR: Enhancing machining feature recognition in B-rep models through deep learning and domain adaptation | CAGD 2024 | [Paper](https://www.sciencedirect.com/science/article/pii/S0167839624000529)  <br> [Code](https://github.com/zhangshuming0668/BrepMFR) |
+| <img src="assets/img/CADTalk.jpg" width="310"> | CADTalk: An Algorithm and Benchmark for Semantic Commenting of CAD Programs | CVPR 2024 | [Paper](https://arxiv.org/abs/2311.16703) <br> [Code](https://github.com/YYYYYHC/CADTalk)  <br> [Project](https://enigma-li.github.io/CADTalk/) |
+| <img src="assets/img/symmetry_langevin.jpg" width="310"> | Robust Symmetry Detection via Riemannian Langevin Dynamics | SIGGRAPH Asia 2024 | [Paper](https://arxiv.org/pdf/2410.02786) <br> [Code](https://colab.research.google.com/drive/1mzytIuqjgIj2D_K3VTt-qhMtluVdVBGg?usp=sharing)  <br> [Project](https://symmetry-langevin.github.io/) |
+| <img src="assets/img/FuS-GCN.jpg" width="310"> | FuS-GCN: Efficient B-rep based graph convolutional networks for 3D-CAD model classification and retrieval | AEI 2023 | [Paper](https://www.sciencedirect.com/science/article/pii/S1474034623001362)|
+| <img src="assets/img/GAT-CADNet.jpg" width="310"> | GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings | CVPR 2022 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_GAT-CADNet_Graph_Attention_Network_for_Panoptic_Symbol_Spotting_in_CAD_CVPR_2022_paper.pdf) <br> [Code](https://github.com/Liberation-happy/GAT-CADNet) |
+| <img src="assets/img/UV-Net.jpg" width="310"> | UV-Net: Learning from Boundary Representations | CVPR 2021 | [Paper](https://arxiv.org/abs/2006.10211) <br> [Code](https://github.com/AutodeskAILab/UV-Net) |
+| <img src="assets/img/BRepNet.jpg" width="310"> | BRepNet: A Topological Message Passing System for Solid Models | CVPR 2021 | [Paper](https://arxiv.org/abs/2104.00706) <br> [Code](https://github.com/AutodeskAILab/BRepNet) |
 
 
 ## Others
