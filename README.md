@@ -123,6 +123,7 @@
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
 | <img src="assets/img/CAD-Editor.jpg" width="300"> | CAD-Editor: A Locate-then-Infill Framework with Automated Training Data Synthesis for Text-Based CAD Editing | arXiv 2025 | [Paper](https://arxiv.org/abs/2502.03997) |
+| <img src="assets/img/ROCA.jpg" width="300"> | ROCA: Robust CAD Model Retrieval and Alignment from a Single Image | CVPR 2022 | [Paper](https://arxiv.org/abs/2112.01988) <br> [Code](https://github.com/cangumeli/ROCA) <br> [Project](https://cangumeli.github.io/ROCA/) |
 | <img src="assets/img/JoinABLe.jpg" width="300"> | JoinABLe: Learning Bottom-up Assembly of Parametric CAD Joints | CVPR 2022 | [Paper](https://arxiv.org/abs/2111.12772) <br> [Code](https://github.com/AutodeskAILab/JoinABLe) |
 
 
