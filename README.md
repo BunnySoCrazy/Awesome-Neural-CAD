@@ -109,7 +109,7 @@
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
 | <img src="assets/img/QueryCAD.jpg" width="210"> | QueryCAD: Grounded Question Answering for CAD Models | arxiv 2025 | [Paper](https://arxiv.org/abs/2409.08704) |
-| <img src="assets/img/BrepMFR.jpg" width="400"> | BrepMFR: Enhancing machining feature recognition in B-rep models through deep learning and domain adaptation | CAGD 2024 | [Paper](https://www.sciencedirect.com/science/article/pii/S0167839624000529)  <br> [Code](https://github.com/zhangshuming0668/BrepMFR) |
+| <img src="assets/img/BrepMFR.jpg" width="210"> | BrepMFR: Enhancing machining feature recognition in B-rep models through deep learning and domain adaptation | CAGD 2024 | [Paper](https://www.sciencedirect.com/science/article/pii/S0167839624000529)  <br> [Code](https://github.com/zhangshuming0668/BrepMFR) |
 | <img src="assets/img/CADTalk.jpg" width="210"> | CADTalk: An Algorithm and Benchmark for Semantic Commenting of CAD Programs | CVPR 2024 | [Paper](https://arxiv.org/abs/2311.16703) <br> [Code](https://github.com/YYYYYHC/CADTalk)  <br> [Project](https://enigma-li.github.io/CADTalk/) |
 | <img src="assets/img/symmetry_langevin.jpg" width="210"> | Robust Symmetry Detection via Riemannian Langevin Dynamics | SIGGRAPH Asia 2024 | [Paper](https://arxiv.org/pdf/2410.02786) <br> [Code](https://colab.research.google.com/drive/1mzytIuqjgIj2D_K3VTt-qhMtluVdVBGg?usp=sharing)  <br> [Project](https://symmetry-langevin.github.io/) |
 | <img src="assets/img/FuS-GCN.jpg" width="210"> | FuS-GCN: Efficient B-rep based graph convolutional networks for 3D-CAD model classification and retrieval | AEI 2023 | [Paper](https://www.sciencedirect.com/science/article/pii/S1474034623001362)|
@@ -123,9 +123,14 @@
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
 | <img src="assets/img/CAD-Editor.jpg" width="300"> | CAD-Editor: A Locate-then-Infill Framework with Automated Training Data Synthesis for Text-Based CAD Editing | arXiv 2025 | [Paper](https://arxiv.org/abs/2502.03997) |
+| <img src="assets/img/CAD-Estate.jpg" width="300"> | CAD-Estate: Large-scale CAD Model Annotation in RGB Videos | ICCV 2023 | [Paper](https://arxiv.org/pdf/2306.09011) <br> [Code](https://github.com/google-research/cad-estate) |
 | <img src="assets/img/ROCA.jpg" width="300"> | ROCA: Robust CAD Model Retrieval and Alignment from a Single Image | CVPR 2022 | [Paper](https://arxiv.org/abs/2112.01988) <br> [Code](https://github.com/cangumeli/ROCA) <br> [Project](https://cangumeli.github.io/ROCA/) |
 | <img src="assets/img/JoinABLe.jpg" width="300"> | JoinABLe: Learning Bottom-up Assembly of Parametric CAD Joints | CVPR 2022 | [Paper](https://arxiv.org/abs/2111.12772) <br> [Code](https://github.com/AutodeskAILab/JoinABLe) |
-
+| <img src="assets/img/SceneCAD.jpg" width="300"> | SceneCAD: Predicting Object Alignments and Layouts in RGB-D Scans | ECCV 2020 | [Paper](https://arxiv.org/pdf/2003.12622) <br> [Code](https://github.com/skanti/scenecad) |
+| <img src="assets/img/CAD-Deform.jpg" width="300"> | CAD-Deform: Deformable Fitting of CAD Models to 3D Scans | ECCV 2020 | [Paper](https://arxiv.org/pdf/2007.11965) <br> [Code](https://github.com/alexeybokhovkin/CAD-Deform) |
+| <img src="assets/img/End-to-End_CAD_Model_Retrieval.jpg" width="300"> | End-to-End CAD Model Retrieval and 9DoF Alignment in 3D Scans | ICCV 2019 | [Paper](https://arxiv.org/pdf/1906.04201) <br> [Project](https://www.niessnerlab.org/projects/avetisyan2019end2end.html) |
+| <img src="assets/img/Joint_Embedding.jpg" width="300"> | Joint Embedding of 3D Scan and CAD Objects | ICCV 2019 | [Paper](https://arxiv.org/pdf/1908.06989) <br> [Project](https://www.niessnerlab.org/projects/dahnert2019embedding.html) |
+| <img src="assets/img/Scan2CAD.jpg" width="300"> | Scan2CAD: Learning CAD Model Alignment in RGB-D Scans | CVPR 2019 (Oral) | [Paper](https://arxiv.org/pdf/1811.11187) <br> [Code](https://github.com/skanti/Scan2CAD) <br> [Project](https://www.niessnerlab.org/projects/avetisyan2019scan2cad.html) |
 
 ## Dataset
 
