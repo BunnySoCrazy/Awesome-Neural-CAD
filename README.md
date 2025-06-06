@@ -12,6 +12,7 @@
 |:---:|:---|:---:|:---:|
 | <img src="assets/img/HoLa.jpg" width="300"> | HoLa: B-Rep Generation using a Holistic Latent Representation | SIGGRAPH 2025 | [Paper](https://arxiv.org/abs/2504.14257)<br> [Project](https://vcc.tech/research/2025/HolaBRep) |
 | <img src="assets/img/CLR-Wire.jpg" width="300"> | CLR-Wire: Towards Continuous Latent Representations for 3D Curve Wireframe Generation | SIGGRAPH 2025 | [Paper](https://arxiv.org/abs/2504.19174) <br> [Code](https://github.com/qixuema/CLR-Wire) |
+| <img src="assets/img/DTGBrepGen.jpg" width="300"> | DTGBrepGen: A Novel B-rep Generative Model through Decoupling Topology and Geometry | CVPR 2025 | [Paper](https://arxiv.org/abs/2503.13110) <br> [Code](https://github.com/jinli99/DTGBrepGen) <br> [Project](https://jinli99.github.io/DTGBrepGen/) |
 | <img src="assets/img/CADCrafter.png" width="300"> | CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images | CVPR 2025 | [Paper](https://arxiv.org/pdf/2504.04753)|
 | <img src="assets/img/CADDreamer.jpg" width="300"> | CADDreamer: CAD object Generation from Single-view Images | CVPR 2025 | [Paper](https://arxiv.org/abs/2502.20732) <br> [Project](https://lidan233.github.io/caddreamer/) |
 | <img src="assets/img/CAD-GPT.jpg" width="400"> | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | arXiv 2025 | [Paper](https://arxiv.org/abs/2412.19663) <br> [Project](https://openiwin.github.io/CAD-GPT/) |
