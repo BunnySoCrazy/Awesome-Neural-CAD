@@ -53,6 +53,7 @@
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
 | <img src="assets/img/PaCo.jpg" width="300"> | Parametric Point Cloud Completion for Polygonal Surface Reconstruction | CVPR 2025 | [Paper](https://arxiv.org/pdf/2503.08363) <br> [Project](https://parametric-completion.github.io/) |
+| <img src="assets/img/CAD2Program.jpg" width="300"> | From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach | AAAI 2025 | [Paper](https://arxiv.org/abs/2412.11892) <br> [Project](https://manycore-research.github.io/CAD2Program/) |
 | <img src="assets/img/BGPSeg.jpg" width="300"> | BGPSeg: Boundary-Guided Primitive Instance Segmentation of Point Clouds | TIP 2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/10896454) |
 | <img src="assets/img/recode.jpg" width="300"> | CAD-Recode: Reverse Engineering CAD Code from Point Clouds | arXiv 2024 | [Paper](https://arxiv.org/pdf/2412.14042) <br> [Code](https://github.com/filaPro/cad-recode) |
 | <img src="assets/img/Img2CAD.jpg" width="300"> | Img2CAD: Conditioned 3D CAD Model Generation from Single Image with Structured Visual Geometry | arXiv 2024 | [Paper](https://arxiv.org/pdf/2410.03417) |
