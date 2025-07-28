@@ -55,7 +55,10 @@
 | <img src="assets/img/PaCo.jpg" width="300"> | Parametric Point Cloud Completion for Polygonal Surface Reconstruction | CVPR 2025 | [Paper](https://arxiv.org/pdf/2503.08363) <br> [Project](https://parametric-completion.github.io/) |
 | <img src="assets/img/CAD2Program.png" width="300"> | From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach | AAAI 2025 | [Paper](https://arxiv.org/abs/2412.11892) <br> [Project](https://manycore-research.github.io/CAD2Program/) |
 | <img src="assets/img/BGPSeg.jpg" width="300"> | BGPSeg: Boundary-Guided Primitive Instance Segmentation of Point Clouds | TIP 2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/10896454) |
-| <img src="assets/img/recode.jpg" width="300"> | CAD-Recode: Reverse Engineering CAD Code from Point Clouds | arXiv 2024 | [Paper](https://arxiv.org/pdf/2412.14042) <br> [Code](https://github.com/filaPro/cad-recode) |
+| <img src="assets/img/cadassistant.jpg" width="300"> | CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers | ICCV 2025 | [Paper](https://arxiv.org/pdf/2412.13810) |
+| <img src="assets/img/picasso.png" width="300"> | PICASSO: A Feed-Forward Framework for Parametric Inference of CAD Sketches via Rendering Self-Supervision | WACV 2025 | [Paper](https://arxiv.org/pdf/2407.13394) |
+| <img src="assets/img/recode.jpg" width="300"> | CAD-Recode: Reverse Engineering CAD Code from Point Clouds | ICCV 2025 | [Paper](https://arxiv.org/pdf/2412.14042) <br> [Code](https://github.com/filaPro/cad-recode) |
+| <img src="assets/img/davinci.png" width="300"> | DAVINCI: A Single-Stage Architecture for Constrained CAD Sketch Inference | BMVC 2024 | [Paper](https://arxiv.org/pdf/2410.22857) |
 | <img src="assets/img/Img2CAD.jpg" width="300"> | Img2CAD: Conditioned 3D CAD Model Generation from Single Image with Structured Visual Geometry | arXiv 2024 | [Paper](https://arxiv.org/pdf/2410.03417) |
 | <img src="assets/img/PS-CAD.jpg" width="300"> | PS-CAD: Local Geometry Guidance via Prompting and Selection for CAD Reconstruction | arXiv 2024 | [Paper](https://arxiv.org/pdf/2405.15188) |
 | <img src="assets/img/Img2CAD_you.jpg" width="300"> | Img2CAD: Reverse Engineering 3D CAD Models from Images through VLM-Assisted Conditional Factorization | arXiv 2024 | [Paper](https://arxiv.org/abs/2408.01437)  <br> [Project](https://anonymous123342.github.io/) |
