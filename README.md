@@ -117,6 +117,7 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
+| <img src="assets/img/DeFillet.jpg" width="310"> | DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models | Siggraph 2025 | [Paper](https://raw.githubusercontent.com/xiaowuga/xiaowuga.github.io/main/pub/static/pdf/Defillet_Sig_2025.pdf) <br> [Code](https://github.com/xiaowuga/DeFillet)  <br> [Project](https://xiaowuga.github.io/pub/DeFillet.html)|
 | <img src="assets/img/QueryCAD.jpg" width="310"> | QueryCAD: Grounded Question Answering for CAD Models | arxiv 2025 | [Paper](https://arxiv.org/abs/2409.08704) |
 | <img src="assets/img/BrepMFR.jpg" width="310"> | BrepMFR: Enhancing machining feature recognition in B-rep models through deep learning and domain adaptation | CAGD 2024 | [Paper](https://www.sciencedirect.com/science/article/pii/S0167839624000529)  <br> [Code](https://github.com/zhangshuming0668/BrepMFR) |
 | <img src="assets/img/CADTalk.jpg" width="310"> | CADTalk: An Algorithm and Benchmark for Semantic Commenting of CAD Programs | CVPR 2024 | [Paper](https://arxiv.org/abs/2311.16703) <br> [Code](https://github.com/YYYYYHC/CADTalk)  <br> [Project](https://enigma-li.github.io/CADTalk/) |
