@@ -14,7 +14,7 @@
 | <img src="assets/img/CAD-Coder.jpg" width="300"> | CAD-Coder: Text-to-CAD Generation with Chain-of-Thought and Geometric Reward | arXiv 2025 | [Paper](https://arxiv.org/abs/2505.19713) |
 | <img src="assets/img/Stitch-A-Shape.jpg" width="300"> | Stitch-A-Shape: Bottom-up Learning for B-Rep Generation | SIGGRAPH 2025 | [Paper](https://arxiv.org/abs/2504.14257) |
 | <img src="assets/img/BrepDiff.jpg" width="300"> | BrepDiff: Single-stage B-rep Diffusion Model | SIGGRAPH 2025 | [Paper](https://dl.acm.org/doi/pdf/10.1145/3721238.3730698) <br> [Project](https://brepdiff.github.io/) |
-| <img src="assets/img/HoLa.jpg" width="300"> | HoLa: B-Rep Generation using a Holistic Latent Representation | SIGGRAPH 2025 | [Paper](https://dl.acm.org/doi/pdf/10.1145/3721238.3730661) |
+| <img src="assets/img/HoLa.jpg" width="300"> | HoLa: B-Rep Generation using a Holistic Latent Representation | SIGGRAPH 2025 | [Paper](https://dl.acm.org/doi/pdf/10.1145/3721238.3730661) <br> [Project](https://vcc.tech/research/2025/HolaBRep) |
 | <img src="assets/img/CLR-Wire.jpg" width="300"> | CLR-Wire: Towards Continuous Latent Representations for 3D Curve Wireframe Generation | SIGGRAPH 2025 | [Paper](https://arxiv.org/abs/2504.19174) <br> [Code](https://github.com/qixuema/CLR-Wire) |
 | <img src="assets/img/DTGBrepGen.jpg" width="300"> | DTGBrepGen: A Novel B-rep Generative Model through Decoupling Topology and Geometry | CVPR 2025 | [Paper](https://arxiv.org/abs/2503.13110) <br> [Code](https://github.com/jinli99/DTGBrepGen) <br> [Project](https://jinli99.github.io/DTGBrepGen/) |
 | <img src="assets/img/CADCrafter.png" width="300"> | CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images | CVPR 2025 | [Paper](https://arxiv.org/pdf/2504.04753)|
