@@ -10,6 +10,9 @@
 
 🔥🔥🔥 Also check out our awesome list about [3D generation](https://github.com/BunnySoCrazy/Awesome-3D-Generation).
 
+#### 📚 Topics
+[Generation](#generation) • [Reconstruction](#reconstruction) • [Abstraction](#abstraction) • [Analysis](#analysis) • [Others](#others) • [Dataset](#dataset)
+
 
 ## Generation
 
