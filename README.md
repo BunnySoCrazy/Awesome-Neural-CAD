@@ -18,6 +18,9 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
+| <img src="assets/img/STEP-LLM.jpg" width="300"> | STEP-LLM: Generating CAD STEP Models from Natural Language with Large Language Models | arXiv 2026 | [Paper](https://arxiv.org/abs/2601.12641) <br> [Code](https://github.com/JasonShiii/STEP-LLM) |
+| <img src="assets/img/CADEvolve.jpg" width="300"> | CADEvolve: Creating Realistic CAD via Program Evolution | arXiv 2026 | [Paper](https://arxiv.org/abs/2602.16317) <br> [Code](https://github.com/zhemdi/CADEvolve) |
+| <img src="assets/img/ProCAD.jpg" width="300"> | Clarify Before You Draw: Proactive Agents for Robust Text-to-CAD Generation | arXiv 2026 | [Paper](https://arxiv.org/abs/2602.03045) |
 | <img src="assets/img/ReCAD_RL.jpg" width="300"> | ReCAD: Reinforcement Learning Enhanced Parametric CAD Model Generation with Vision-Language Models | arXiv 2025 | [Paper](https://arxiv.org/pdf/2512.06328) |
 | <img src="assets/img/BrepGPT.jpg" width="300"> | BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch | SIGGRAPH Asia 2025 | [Paper](https://arxiv.org/abs/2511.22171) |
 | <img src="assets/img/AutoBrep.jpg" width="300"> | AutoBrep: Autoregressive B-Rep Generation with Unified Topology and Geometry | SIGGRAPH Asia 2025 | [Paper](https://arxiv.org/abs/2512.03018) <br> [Code](https://github.com/AutodeskAILab/AutoBrep) |
