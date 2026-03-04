@@ -21,6 +21,7 @@
 | <img src="assets/img/STEP-LLM.jpg" width="300"> | STEP-LLM: Generating CAD STEP Models from Natural Language with Large Language Models | arXiv 2026 | [Paper](https://arxiv.org/abs/2601.12641) <br> [Code](https://github.com/JasonShiii/STEP-LLM) |
 | <img src="assets/img/CADEvolve.jpg" width="300"> | CADEvolve: Creating Realistic CAD via Program Evolution | arXiv 2026 | [Paper](https://arxiv.org/abs/2602.16317) <br> [Code](https://github.com/zhemdi/CADEvolve) |
 | <img src="assets/img/ProCAD.jpg" width="300"> | Clarify Before You Draw: Proactive Agents for Robust Text-to-CAD Generation | arXiv 2026 | [Paper](https://arxiv.org/abs/2602.03045) |
+| <img src="assets/img/CADmium.jpg" width="300"> | CADmium: Fine-Tuning Code Language Models for Text-Driven Sequential CAD Design | TMLR 2026 | [Paper](https://arxiv.org/abs/2507.09792) |
 | <img src="assets/img/ReCAD_RL.jpg" width="300"> | ReCAD: Reinforcement Learning Enhanced Parametric CAD Model Generation with Vision-Language Models | arXiv 2025 | [Paper](https://arxiv.org/pdf/2512.06328) |
 | <img src="assets/img/BrepGPT.jpg" width="300"> | BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch | SIGGRAPH Asia 2025 | [Paper](https://arxiv.org/abs/2511.22171) |
 | <img src="assets/img/AutoBrep.jpg" width="300"> | AutoBrep: Autoregressive B-Rep Generation with Unified Topology and Geometry | SIGGRAPH Asia 2025 | [Paper](https://arxiv.org/abs/2512.03018) <br> [Code](https://github.com/AutodeskAILab/AutoBrep) |
@@ -120,6 +121,11 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
+| <img src="assets/img/HiT.jpg" width="280"> | HiT: Hierarchical Transformers for Unsupervised 3D Shape Abstraction | 3DV 2026 | [Paper](https://arxiv.org/abs/2510.27088) <br> [Project](https://aditya-vora.github.io/HiT/) |
+| <img src="assets/img/PrimitiveAnything.jpg" width="280"> | PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer | SIGGRAPH 2025 | [Paper](https://arxiv.org/abs/2505.04622) <br> [Code](https://github.com/PrimitiveAnything/PrimitiveAnything) <br> [Project](https://primitiveanything.github.io/) |
+| <img src="assets/img/ShapeCraft.jpg" width="280"> | ShapeCraft: LLM Agents for Structured, Textured and Interactive 3D Modeling | NeurIPS 2025 | [Paper](https://arxiv.org/abs/2510.17603) <br> [Project](https://sanbingyouyong.github.io/shapecraft/) |
+| <img src="assets/img/SuperDec.jpg" width="280"> | SuperDec: 3D Scene Decomposition with Superquadric Primitives | ICCV 2025 | [Paper](https://arxiv.org/abs/2504.00992) <br> [Code](https://github.com/elisabettafedele/superdec) <br> [Project](https://super-dec.github.io/) |
+| <img src="assets/img/Light-SQ.jpg" width="280"> | Light-SQ: Structure-aware Shape Abstraction with Superquadrics for Generated Meshes | SIGGRAPH Asia 2025 | [Paper](https://arxiv.org/abs/2509.24986) <br> [Code](https://github.com/johannwyh/Light-SQ) |
 | <img src="assets/img/ShapeLib.jpg" width="280"> | ShapeLib: Designing a library of procedural 3D shape abstractions with Large Language Models | arxiv 2025 | [Paper](https://arxiv.org/abs/2502.08884)|
 | <img src="assets/img/CoReF.jpg" width="280"> | Improving Unsupervised Visual Program Inference with Code Rewriting Families | ICCV 2023 (oral) | [Paper](https://arxiv.org/abs/2309.14972) <br> [Code](https://github.com/bardofcodes/coref/) <br> [Project](https://bardofcodes.github.io/coref/) |
 | <img src="assets/img/SweepNet.jpg" width="280"> | SweepNet: Unsupervised Learning Shape Abstraction via Neural Sweepers | ECCV 2024 | [Paper](https://arxiv.org/pdf/2407.06305) <br> [Code](https://github.com/mingrui-zhao/SweepNet/tree/code) <br> [Project](https://mingrui-zhao.github.io/SweepNet/) |
@@ -163,6 +169,9 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
+| <img src="assets/img/ArchCAD-400K.jpg" width="300"> | ArchCAD-400K: An Open Large-Scale Architectural CAD Dataset and New Baseline for Panoptic Symbol Spotting | NeurIPS 2025 | [Paper](https://arxiv.org/abs/2503.22346) <br> [Dataset](https://huggingface.co/datasets/jackluoluo/ArchCAD) |
+| <img src="assets/img/VideoCAD.jpg" width="300"> | VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video | NeurIPS 2025 | [Paper](https://arxiv.org/abs/2505.24838) <br> [Code](https://github.com/ghadinehme/VideoCAD) <br> [Project](https://ghadinehme.github.io/videocad.github.io/) |
+| <img src="assets/img/HistCAD.jpg" width="300"> | HistCAD: Geometrically Constrained Parametric History-based CAD Dataset | arXiv 2026 | [Paper](https://arxiv.org/abs/2602.19171) |
 | <img src="assets/img/Fusion360_assembly.jpg" width="300"> | Fusion 360 Gallery: A Dataset and Environment for Programmatic CAD Construction from Human Design Sequences (Assembly Dataset) | CVPR 2022 | [Paper](https://arxiv.org/abs/2111.12772) <br> [Code](https://github.com/AutodeskAILab/JoinABLe) <br> [Project](https://github.com/AutodeskAILab/Fusion360GalleryDataset) |
 | <img src="assets/img/Fusion360_reconstruction.jpg" width="300"> | Fusion 360 Gallery: A Dataset and Environment for Programmatic CAD Construction from Human Design Sequences (Reconstruction Dataset) | SIGGRAPH 2021 | [Paper](https://arxiv.org/abs/2010.02392) <br> [Project](https://github.com/AutodeskAILab/Fusion360GalleryDataset) |
 | <img src="assets/img/Fusion360_segmentation.jpg" width="300"> | Fusion 360 Gallery: A Dataset and Environment for Programmatic CAD Construction from Human Design Sequences (Segmentation Dataset) | CVPR 2021 | [Paper](https://arxiv.org/abs/2104.00706) <br> [Project](https://github.com/AutodeskAILab/Fusion360GalleryDataset) |
