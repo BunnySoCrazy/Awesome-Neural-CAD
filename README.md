@@ -18,6 +18,10 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
+| <img src="assets/img/ParaCAD.jpg" width="300"> | Autoregressive B-Rep Shape Generation with Parametric Surfaces | SIGGRAPH 2026 | [Paper](https://arxiv.org/abs/2607.17093) <br> [Code](https://github.com/dafei-qin/ParaCAD) |
+| <img src="assets/img/BrepForge.jpg" width="300"> | BrepForge: Factorized B-rep Synthesis via Wireframe Composition and Boundary-Conditioned Surface Instantiation | SIGGRAPH 2026 | [Paper](https://arxiv.org/abs/2605.19411) |
+| <img src="assets/img/FutureCAD.jpg" width="300"> | Towards High-Fidelity CAD Generation via LLM-Driven Program Generation and Text-Based B-Rep Primitive Grounding | ICML 2026 | [Paper](https://arxiv.org/abs/2603.11831) <br> [Code](https://github.com/JohanStackk/FutureCAD) |
+| <img src="assets/img/CME-CAD.jpg" width="300"> | CME-CAD: Heterogeneous Collaborative Multi-Expert Reinforcement Learning for CAD Code Generation | CVPR 2026 | [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Niu_CME-CAD_Heterogeneous_Collaborative_Multi-Expert_Reinforcement_Learning_for_CAD_Code_Generation_CVPR_2026_paper.pdf) |
 | <img src="assets/img/STEP-LLM.jpg" width="300"> | STEP-LLM: Generating CAD STEP Models from Natural Language with Large Language Models | arXiv 2026 | [Paper](https://arxiv.org/abs/2601.12641) <br> [Code](https://github.com/JasonShiii/STEP-LLM) |
 | <img src="assets/img/CADEvolve.jpg" width="300"> | CADEvolve: Creating Realistic CAD via Program Evolution | arXiv 2026 | [Paper](https://arxiv.org/abs/2602.16317) <br> [Code](https://github.com/zhemdi/CADEvolve) |
 | <img src="assets/img/ProCAD.jpg" width="300"> | Clarify Before You Draw: Proactive Agents for Robust Text-to-CAD Generation | arXiv 2026 | [Paper](https://arxiv.org/abs/2602.03045) |
@@ -155,6 +159,7 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
+| <img src="assets/img/B-repLer.jpg" width="300"> | B-repLer: Language-guided Editing of CAD Models | SIGGRAPH 2026 | [Paper](https://arxiv.org/abs/2508.10201) <br> [Code](https://github.com/yilinliu77/Brepler) <br> [Project](https://yilinliu77.github.io/brepler.github.io/) |
 | <img src="assets/img/CAD-Editor.jpg" width="300"> | CAD-Editor: A Locate-then-Infill Framework with Automated Training Data Synthesis for Text-Based CAD Editing | arXiv 2025 | [Paper](https://arxiv.org/abs/2502.03997) |
 | <img src="assets/img/CAD-Estate.jpg" width="300"> | CAD-Estate: Large-scale CAD Model Annotation in RGB Videos | ICCV 2023 | [Paper](https://arxiv.org/pdf/2306.09011) <br> [Code](https://github.com/google-research/cad-estate) |
 | <img src="assets/img/ROCA.jpg" width="300"> | ROCA: Robust CAD Model Retrieval and Alignment from a Single Image | CVPR 2022 | [Paper](https://arxiv.org/abs/2112.01988) <br> [Code](https://github.com/cangumeli/ROCA) <br> [Project](https://cangumeli.github.io/ROCA/) |
